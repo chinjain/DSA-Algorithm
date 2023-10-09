@@ -8,15 +8,14 @@ public class StaticExample {
 		USER_ID = getId();
 	}
 
-	private static long getId() {
+	public static long getId() {
 		// TODO Auto-generated method stub
 		return 0;
 	}
 
 }
 
-class IdNotFound extends Exception {
-	IdNotFound() {
+class IdNotFound extends StaticExample {
+	
 
-	}
 }
