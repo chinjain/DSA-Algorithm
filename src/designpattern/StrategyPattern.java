@@ -1,85 +1,75 @@
 package designpattern;
 
-public class StrategyPattern {
+/*
+ * The Strategy Design Pattern is a behavioral design pattern in Java that defines a family of algorithms, 
+ * encapsulates each one of them, and makes them interchangeable. 
+ * It allows a client to choose an algorithm from a family of algorithms at runtime. 
+ * This pattern promotes the "Open/Closed Principle" by allowing you to add new algorithms without modifying the 
+   existing code that uses these algorithms.
 
+
+	Here's how you can implement the Strategy Design Pattern in Java:
+ */
+
+interface PaymentStrategy {
+	void pay(int amount);
 }
 
+class CreditCardPayment implements PaymentStrategy {
 
-
-public interface Flys {
-	 String fly();
-
-}
-
-class Animal {
-
+	private String cardNumber;
 	private String name;
-	private double height;
-	private int weight;
-	private String favFood;
-	private double speed;
-	private String sound;
 
-	public Flys flyingType;
-
-	public String getName() {
-		return name;
-	}
-
-	public void setName(String name) {
+	public CreditCardPayment(String cardNumber, String name) {
+		this.cardNumber = cardNumber;
 		this.name = name;
 	}
 
-	public double getHeight() {
-		return height;
+	@Override
+	public void pay(int amount) {
+		System.out.println("Paid " + amount + " using credit card.");
 	}
 
-	public void setHeight(double height) {
-		this.height = height;
+}
+
+class PayPalPayment implements PaymentStrategy {
+	private String email;
+
+	public PayPalPayment(String email) {
+		this.email = email;
 	}
 
-	public int getWeight() {
-		return weight;
-	}
-
-	public void setWeight(int weight) {
-		this.weight = weight;
-	}
-
-	public String getFavFood() {
-		return favFood;
-	}
-
-	public void setFavFood(String favFood) {
-		this.favFood = favFood;
-	}
-
-	public double getSpeed() {
-		return speed;
-	}
-
-	public void setSpeed(double speed) {
-		this.speed = speed;
-	}
-
-	public String getSound() {
-		return sound;
-	}
-
-	public void setSound(String sound) {
-		this.sound = sound;
-	}
-
-	public String tryToFly() {
-		return flyingType.fly();
-	}
-	
-	public void setFlyingAbility(Flys newFlyType){
-		 flyingType = newFlyType;
+	@Override
+	public void pay(int amount) {
+		System.out.println("Paid " + amount + " using PayPal.");
 
 	}
 
 }
 
+// This one is the context class which will help us to decide what kind of payment we need at the time of checkout 
+class ShoppingCart {
+	private PaymentStrategy strategy;
 
+	public void setPaymentStrategy(PaymentStrategy paymentStrategy) {
+		this.strategy = paymentStrategy;
+	}
 
+	public void checkout(int amt) {
+		strategy.pay(amt);
+	}
+}
+
+public class StrategyPattern {
+
+	public static void main(String[] args) {
+		ShoppingCart cart = new ShoppingCart();
+
+		cart.setPaymentStrategy(new PayPalPayment("chinmayjain03@gmail.com"));
+		cart.checkout(50003);
+
+		cart.setPaymentStrategy(new CreditCardPayment("5555-0922-2201-2122", "Chinmay Jain"));
+		cart.checkout(23000);
+	}
+
+}
