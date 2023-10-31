@@ -24,7 +24,7 @@ public class NestedClassExampler {
 		Demo demo = classExampler.new Demo();
 
 		public void print() {
-			System.out.println(demo.j);
+//			System.out.println(demo.j);
 		}
 
 	}

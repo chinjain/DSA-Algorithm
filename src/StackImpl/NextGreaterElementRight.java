@@ -59,7 +59,6 @@ public class NextGreaterElementRight {
 				res[i] = -1;
 			} else {
 				res[i] = st.peek();
-				st.pop();
 			}
 
 			st.push(a[i]);
