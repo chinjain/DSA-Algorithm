@@ -3,9 +3,11 @@ package designpattern;
 public class ProxyDesignPattern {
 
 	public static void main(String[] args) {
-		RealImage image = new RealImage("Test.png");
+//		RealImage image = new RealImage("Test.png");
 		ImageProxy proxy = new ImageProxy();
 		proxy.display();
+		
+		
 	}
 
 }
@@ -35,10 +37,12 @@ class RealImage implements image {
 
 }
 
-class ImageProxy implements image {
+class ImageProxy  implements image {
+
+
 
 	private RealImage realImage;
-	private String filename;
+	private String filename = "Test values for null Real images";
 
 	@Override
 	public void display() {

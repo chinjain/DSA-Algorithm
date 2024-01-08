@@ -60,6 +60,10 @@ public class Problems {
 		Map<String, List<Employee>> map = employees.stream().collect(Collectors
 				.groupingBy(emp -> emp.getId().substring(0, 4), Collectors.mapping(e -> e, Collectors.toList())));
 
+		employees.stream().collect(Collectors.groupingBy(Employee::getSalary)).entrySet().forEach((e) -> {
+			System.out.println(e.getKey() + ":" + e.getValue());
+		});
+
 		map.entrySet().stream()
 				.sorted((e1, e2) -> e1.getValue().get(0).getFirstName().compareTo(e2.getValue().get(0).getFirstName()))
 				.forEach(System.out::println);

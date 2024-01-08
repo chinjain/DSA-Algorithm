@@ -11,6 +11,7 @@ import java.util.stream.Collectors;
 public class MapToList {
 
 	public static void main(String[] args) {
+
 		Map<String, Employee> employeeMap = new HashMap<String, Employee>();
 		employeeMap.put("E001", new Employee("John", "D001"));
 		employeeMap.put("E002", new Employee("Alice", "D002"));
@@ -19,12 +20,10 @@ public class MapToList {
 
 		List<String> departmentCode = employeeMap.values().stream().map(Employee::getDepartmentCode).sorted()
 				.collect(Collectors.toList());
-
 		System.err.println(departmentCode);
 
 		Map<Integer, String> dept = departmentCode.stream()
 				.collect(Collectors.toMap(String::length, s -> s, (S1, S2) -> S1));
-
 		System.err.println(dept);
 
 		List<Employee> employees = Arrays.asList(new Employee("aa", "cj001"), new Employee("cj", "ac0012"),
@@ -34,14 +33,9 @@ public class MapToList {
 
 		Map<String, Integer> emp = employees.stream().collect(
 				Collectors.toMap(Employee::getDepartmentCode, e -> e.getDepartmentCode().length(), (s1, s2) -> s1));
-
-		
-		//for handling the collision we have used the third argument here 
+		// for handling the collision we have used the third argument here
 		Map<String, Integer> map = employees.stream().collect(Collectors.toMap(Employee::getDepartmentCode,
 				e -> e.getDepartmentCode().length(), (existValue, newValue) -> existValue));
-		
-
 		System.err.println("EMPLOYEE" + " " + emp.size());
 	}
-
 }

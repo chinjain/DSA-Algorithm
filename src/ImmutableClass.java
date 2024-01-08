@@ -16,7 +16,7 @@ public class ImmutableClass {
 	}
 }
 
-class Emp {
+final class Emp {
 
 	private final String name;
 	private final String dob;
