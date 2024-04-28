@@ -25,19 +25,19 @@ public class DuplicateElement {
 
 		return stream.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting())).entrySet()
 				.stream().filter(map -> map.getValue() > 1).map(Map.Entry::getKey).collect(Collectors.toSet());
+
 	}
 
 	private static Set<Integer> removeDuplicate(List<Integer> stream) {
 
 		Set<Integer> integers = new HashSet<Integer>();
-		//Unique element will add into this
 		return stream.stream().filter(i -> integers.add(i)).collect(Collectors.toSet());
 	}
 
 	private static Set<Integer> printDuplicateElement(List<Integer> stream) {
 
-//		return stream.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting())).entrySet()
-//				.stream().filter(m -> m.getValue() > 1).map(Map.Entry::getKey).collect(Collec);
+		//		return stream.stream().collect(Collectors.groupingBy(Function.identity(), Collectors.counting())).entrySet()
+		//				.stream().filter(m -> m.getValue() > 1).map(Map.Entry::getKey).collect(Collec);
 		return stream.stream().filter(i -> Collections.frequency(stream, i) > 1).collect(Collectors.toSet());
 	}
 

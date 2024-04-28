@@ -27,8 +27,9 @@ public class SynchronizedBlock extends Thread {
 		t2.start();
 		t3.start();
 		t4.start();
+		t5.setDaemon(true);
 		t5.start();
-		t6.setDaemon(true);
+//		t6.setDaemon(true);
 		t6.start();
 	}
 

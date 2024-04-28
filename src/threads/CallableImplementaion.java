@@ -14,8 +14,13 @@ public class CallableImplementaion {
 		Callable<String> callableTask = new Report("Tesing report is sending to you");
 
 		// Submit the Callable task to the ExecutorService
-		Future<String> future = executorService.submit(callableTask);
+		Future<String> future = executorService.submit(() ->{
+			System.out.println("hello");
+			return "";
+		});
 
+		
+		
 		try {
 			// Get the result of the Callable task (this blocks until the task is done)
 			String result = future.get();

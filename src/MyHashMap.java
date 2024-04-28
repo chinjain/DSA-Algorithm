@@ -25,40 +25,39 @@ public class MyHashMap<K, V> {
 		V value;
 		Node<K, V> next;
 
-        public Node(K key, V value) {
-            this.key = key;
-            this.value = value;
-        }
+		public Node(K key, V value) {
+			this.key = key;
+			this.value = value;
+		}
 	}
 
 	private int hash(K key) {
 		return key.hashCode() % capacity;
 	}
-	
+
 	public void put(K key, V value) {
 		int idx = hash(key);
 		Node<K, V> node = table[idx];
-		
-		while(node != null) {
-			if(node.key.equals(key)) {
+
+		while (node != null) {
+			if (node.key.equals(key)) {
 				node.value = value;
 				return;
 			}
 			node = node.next;
 		}
-		
+
 		Node<K, V> newNode = new Node<>(key, value);
 		newNode.next = table[idx];
 		table[idx] = newNode;
-        size++;
-        if (size > capacity * loadFactor) {
-            resize();
-        }
+		size++;
+		if (size > capacity * loadFactor) {
+			resize();
+		}
 	}
 
 	private void resize() {
-		
-		
+
 	}
 
 }

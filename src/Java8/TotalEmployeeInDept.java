@@ -1,6 +1,7 @@
 package Java8;
 
 import java.util.Arrays;
+import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
@@ -14,8 +15,11 @@ public class TotalEmployeeInDept {
 
 		Map<String, List<String>> deptByEmp = employees.stream().collect(Collectors
 				.groupingBy(Employee::getDepartmentCode, Collectors.mapping(Employee::getName, Collectors.toList())));
-		
+
 		System.err.println(deptByEmp);
+
+		employees.stream().collect(Collectors.groupingBy(Employee::getDepartmentCode, LinkedHashMap::new,
+				Collectors.mapping(Employee::getName, Collectors.toList())));
 	}
 
 }

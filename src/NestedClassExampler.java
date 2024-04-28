@@ -15,7 +15,9 @@ public class NestedClassExampler {
 	}
 
 	static class DemoStatic {
-
+		public DemoStatic() {
+			System.out.println();
+		}
 	}
 
 	class Demo {

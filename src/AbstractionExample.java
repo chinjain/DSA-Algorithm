@@ -1,7 +1,12 @@
+import java.util.HashSet;
 
 public class AbstractionExample {
 
 	public static void main(String[] args) {
+
+		HashSet<Integer> hashSet = new HashSet<Integer>();
+		hashSet.add(100);
+		//		hashSet.add(null);
 
 		Shape circle = new Circle("Red", 2);
 
@@ -49,6 +54,8 @@ class Circle extends Shape {
 	public double area() {
 		return Math.PI * Math.pow(radius, 2);
 	}
+
+	
 
 }
 

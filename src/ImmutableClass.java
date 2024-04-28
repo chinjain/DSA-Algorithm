@@ -8,11 +8,18 @@ public class ImmutableClass {
 	public static void main(String[] args) {
 		Emp emp = new Emp("Chinmay", "03-11-1998", Arrays.asList("CSE,IT"));
 
-		Emp emp2 = new Emp("Chinmay", "03-11-1998", Arrays.asList("CSE"));
+		try {
+			System.out.println(emp.getDepartment().add("ECE"));
+		}catch (UnsupportedOperationException e ) {
+			System.out.println(e.getCause()
+					);
+		}
 		
-		emp2.getDepartment().add("hey I am able to add");
-		System.out.println(emp2.getDepartment());
-		System.out.println(emp.hashCode() + " == " + emp2.hashCode());
+//		Emp emp2 = new Emp("Chinmay", "03-11-1998", Arrays.asList("CSE"));
+//
+//		emp2.getDepartment().add("hey I am able to add");
+//		System.out.println(emp2.getDepartment());
+//		System.out.println(emp.hashCode() + " == " + emp2.hashCode());
 	}
 }
 
@@ -26,7 +33,7 @@ final class Emp {
 		super();
 		this.name = name;
 		this.dob = dob;
-		this.department = Collections.unmodifiableList(new ArrayList<>(department));
+		this.department = new ArrayList<>(department);
 	}
 
 	public String getName() {
@@ -38,7 +45,7 @@ final class Emp {
 	}
 
 	public List<String> getDepartment() {
-		return department;
+		return Collections.unmodifiableList(new ArrayList<String>(department));
 	}
 
 	@Override

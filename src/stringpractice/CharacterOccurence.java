@@ -8,7 +8,7 @@ public class CharacterOccurence {
 
 		int[] count = new int[MAX_SIZE];
 
-		Arrays.fill(count, 0);
+//		Arrays.fill(count, 0);
 		String s = "ncsdfiunsuia oubfaasfcausiufmducmgiuzdugudfguzmohudguzdgcmfiuihauwhruhaoiwer9234";
 		int len = s.length();
 		for (int i = 0; i < len; i++) {

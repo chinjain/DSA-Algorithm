@@ -33,7 +33,6 @@ public class LRUCache<K, V> implements Cache<K, V> {
 				.orElseThrow(() -> new RuntimeException("Cache is empty ..."));
 		cache.remove(keyToRemove);
 		usageCount.remove(keyToRemove);
-
 	}
 
 	@Override

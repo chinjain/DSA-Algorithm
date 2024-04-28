@@ -15,18 +15,19 @@ public class InsertionSort {
 
 	private void insertionSort(int[] data) {
 
-		int n = data.length;
+		for (int right = 1; right < data.length; right++) {
+			int key = data[right];
+			int left = right - 1;
 
-		for (int step = 1; step < n; step++) {
-			int key = data[step];
-			int j = step - 1;
-
-			while (j >= 0 && key < data[j]) {
-				data[j + 1] = data[j];
-				--j;
+			while (left >= 0 && key < data[left]) {
+				data[left + 1] = data[left];
+				--left;
 			}
+			data[left + 1] = key;
 
-			data[j + 1] = key;
 		}
+
+		Arrays.stream(data).forEach(System.out::println);
+
 	}
 }

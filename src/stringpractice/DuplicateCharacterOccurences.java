@@ -11,6 +11,10 @@ public class DuplicateCharacterOccurences {
 		System.out.println("Duplicate characters in the string:");
 		findDuplicates(inputString);
 		optimal(inputString);
+		
+		
+		String ch [] = inputString.split("");
+		
 	}
 
 	private static void optimal(String inputString) {

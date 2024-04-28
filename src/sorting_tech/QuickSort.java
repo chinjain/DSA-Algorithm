@@ -1,26 +1,48 @@
 package sorting_tech;
 
+import java.util.Arrays;
+
 public class QuickSort {
 
 	public static void main(String[] args) {
 
-		int[] arr = { 90, 23, 101, 45, 65, 23, 67, 89, 34, 23 };
-		quickSort(arr, 0, 9);
-		System.out.println("\n The sorted array is: \n");
-		for (int i = 0; i < 10; i++)
-			System.out.println(arr[i]);
+		int[] arr = { 10, 80, 30, 90, 40 };
+		quickSort(arr, 0, arr.length - 1);
+		Arrays.stream(arr).forEach(System.out::println);
 	}
 
-	private static void quickSort(int[] arr, int lo, int hi) {
+	private static void quickSort(int[] arr, int left, int right) {
 
-		int pivot = arr[hi];
-		int i = lo - 1;
-		for (int j = lo; j < hi; j++) {
-			if(arr[j] <= pivot) {
-				
+		if (left < right) {
+
+			int pi = partition(arr, left, right);
+			quickSort(arr, left, pi - 1);
+			quickSort(arr, pi + 1, right);
+
+		}
+
+	}
+
+	private static int partition(int[] arr, int left, int right) {
+
+		int pivot = arr[right];
+
+		int i = left - 1;
+
+		for (int j = left; j < right; j++) {
+			if (arr[j] <= pivot) {
+				i++;
+				int temp = arr[i];
+				arr[i] = arr[j];
+				arr[j] = temp;
 			}
 		}
 
+		int temp = arr[i + 1];
+		arr[i + 1] = arr[right];
+		arr[right] = temp;
+
+		return (i + 1);
 	}
 
 }

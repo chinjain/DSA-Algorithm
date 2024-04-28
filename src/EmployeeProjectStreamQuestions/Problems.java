@@ -1,5 +1,6 @@
-package EmployeeProjectStreamQuestions;
+	package EmployeeProjectStreamQuestions;
 
+import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
@@ -34,11 +35,16 @@ public class Problems {
 			return comparison;
 		}).forEach(System.out::println);
 
+		System.out.println("\n ========== Sort Employee using Comparator =============================");
+
+		employees.stream().sorted(Comparator.comparing(Employee::getFirstName).thenComparing(Employee::getSalary))
+		.forEach(System.out::println);
+
 		int n = 3;
 		System.out.println(
 				"\n ====== Print names of all employee with 3rd highest salary. (generalise it for nth highest salary). ======");
 		employees.stream().sorted((s1, s2) -> s2.getSalary() - s1.getSalary()).limit(n).skip(n - 1)
-				.forEach(System.out::println);
+		.forEach(System.out::println);
 
 		System.out.println("\n ====== List of people working on more than 2 projects. ======");
 		employees.stream().filter(each -> each.getProjects().size() > 2).forEach(System.out::println);
@@ -51,7 +57,7 @@ public class Problems {
 		String pm = "Robert Downey Jr";
 		employees.stream().filter(
 				each -> each.getProjects().stream().anyMatch(eachP -> eachP.getProjectManager().equalsIgnoreCase(pm)))
-				.forEach(System.out::println);
+		.forEach(System.out::println);
 
 		System.out.println("\n ====== Print Min Sal ======");
 		System.out.println(employees.stream().sorted((e1, e2) -> e1.getSalary() - e2.getSalary()).findAny().get());
@@ -65,13 +71,13 @@ public class Problems {
 		});
 
 		map.entrySet().stream()
-				.sorted((e1, e2) -> e1.getValue().get(0).getFirstName().compareTo(e2.getValue().get(0).getFirstName()))
-				.forEach(System.out::println);
+		.sorted((e1, e2) -> e1.getValue().get(0).getFirstName().compareTo(e2.getValue().get(0).getFirstName()))
+		.forEach(System.out::println);
 
 		System.out.println("\n ====== mapOfEmployeeCountOnJoiningYear ======");
 		employees.stream()
-				.collect(Collectors.toMap(e -> e.getId().substring(0, 4), emp -> 1, Integer::sum, TreeMap::new))
-				.entrySet().forEach(System.out::println);
+		.collect(Collectors.toMap(e -> e.getId().substring(0, 4), emp -> 1, Integer::sum, TreeMap::new))
+		.entrySet().forEach(System.out::println);
 		;
 	}
 

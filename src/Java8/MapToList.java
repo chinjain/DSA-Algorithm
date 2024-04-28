@@ -18,13 +18,14 @@ public class MapToList {
 		employeeMap.put("E003", new Employee("Bob", "D001"));
 		employeeMap.put("E004", new Employee("Jane", "D003"));
 
-		List<String> departmentCode = employeeMap.values().stream().map(Employee::getDepartmentCode).sorted()
-				.collect(Collectors.toList());
+		List<String> departmentCode = employeeMap.values().stream()
+				.sorted((a, b) -> b.getDepartmentCode().compareTo(a.getDepartmentCode()))
+				.map(Employee::getDepartmentCode).collect(Collectors.toList());
 		System.err.println(departmentCode);
 
 		Map<Integer, String> dept = departmentCode.stream()
-				.collect(Collectors.toMap(String::length, s -> s, (S1, S2) -> S1));
-		System.err.println(dept);
+				.collect(Collectors.toMap(String::length, Function.identity(), (S1, S2) -> S1));
+		System.out.println(dept);
 
 		List<Employee> employees = Arrays.asList(new Employee("aa", "cj001"), new Employee("cj", "ac0012"),
 				new Employee("cj", "ac004382"), new Employee("cj", "ac0012435"), new Employee("cj", "ac001"),

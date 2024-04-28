@@ -47,6 +47,23 @@ class PayPalPayment implements PaymentStrategy {
 
 }
 
+class UPIPayment implements PaymentStrategy {
+
+	private String mobileNumber;
+
+	public UPIPayment(String number) {
+		this.mobileNumber = number;
+	}
+
+	@Override
+	public void pay(int amount) {
+		System.out.println("You Are paying the bill amount:" + amount + " using UPI Registerd Mobile number: "
+				+ this.mobileNumber);
+
+	}
+
+}
+
 // This one is the context class which will help us to decide what kind of payment we need at the time of checkout 
 class ShoppingCart {
 	private PaymentStrategy strategy;
@@ -70,6 +87,9 @@ public class StrategyPattern {
 
 		cart.setPaymentStrategy(new CreditCardPayment("5555-0922-2201-2122", "Chinmay Jain"));
 		cart.checkout(23000);
+
+		cart.setPaymentStrategy(new UPIPayment("9770672241"));
+		cart.checkout(13924);
 	}
 
 }

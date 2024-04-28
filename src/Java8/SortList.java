@@ -60,5 +60,7 @@ public class SortList {
 	private static void sortList(List<String> strings) {
 //		strings.stream().sorted().collect(Collectors.toList()).forEach(System.out::println);
 		strings.stream().sorted((s1, s2) -> s1.compareTo(s2)).forEach(System.out::println);
+		
+		
 	}
 }
