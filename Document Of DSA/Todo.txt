@@ -1,0 +1,1989 @@
+4th Jan 2024 :-
+
+	a. Interview Question - set 4 & 5 & functional Interfaces & Threads Interview Question(Done)
+	b. Angular => 3 to 4 hours of course Study
+	c. DSA => Recursion and its problems
+____________________________________________________________________________________	
+5th Jan : 
+	a. Angular
+	b. DSA
+	c. Interview Question -> articles and Lecture (Done)
+	angular lecture -> MultiThreading From Github -> Ghar pr DSA
+____________________________________________________________________________________
+8th Jan 2024:(X - Day Waste)
+	- Angular
+	- DSA (recursions 2 question)(X) not possible today
+	- EDD design pattern(By today EOD Need to complete this)
+	- 1 article of Interview Problem & article related to topic of Angular 
+____________________________________________________________________________________
+
+9th Jan 2024:
+	- Angular 4hr (should be done_)(Just for completing and gaining basic understanding of this)
+	- DsA (daily 4 question) (night we will solve this) 9:00 to 12:00
+	- 1 article of interview -> Functional Interfaces & Java set 8 & 9( 1 hour)(X)
+	- 1 article of JS interview question 2 question(1/2 hour)(X)
+____________________________________________________________________________________
+
+10th Jan 2024: 
+	- Angular 11:35  to 3:30pm
+	- DsA -> 9:00pm to 12:00(subset sum - | & || & print all permutations)
+	- Functional Interfaces & 2 set of Java
+	- Angular Lecture only 
+___________________________________________________________________________________
+
+11th Jan 2024: 
+	- MultiThreading (Done)
+	- 2 sets of Question (done)
+	- Angular 
+	- Company Work(done)
+	- E-com website Set up 
+	- DSA (Recursion question)
+____________________________________________________________________________________
+
+12th jan 2024:
+	- E-com website 2 hr(need to start this)
+	- Angular 1 hr
+	- Threading question(Not able to do this by today)
+	- set of interview question in java(will do this as well)(this I'll do)
+____________________________________________________________________________________
+
+13th jan 2024: 
+
+- ecommerce site (Done)
+- Angular 1 hour
+- DSA 2 question of recursion & 2 question of any topic(At night 2 hours)
+- Hibernate practices 1 lecture(this will be done)
+
+- Find all anagram in a string 
+- 1 article of interview 
+- 1 Ep of VS
+
+________________________________________________________________________________
+
+
+
+NOTE : Follow the flow - Lecture -> DSA -> Lecture -> Article -> Lecture
+
+14th jan 2024:
+
+- DSA anagram Question (1q done,)
+- Ecommerce JWT & Authgaurd Impl in Angular from 4:00 pm to 7:30pm (X)
+- Vivek 1 article of Core java 9:30pm to 10:30pm (X)
+- Hibernate Selenium Express 1 lecture then && by midnight Complete this lecture !!(X)(by night before sleep
+
+
+- Hibernate  1hour lecture 
+- DSA 2 question Solve then sleep
+___________________________________________________________________________________
+
+15th jan 2024 
+
+- ecommerce - finish the AuthGuard Implementation in Angular(2nd task) by 5:45 it should be done !!
+
+- DSA 2 question - Subset Sum problems 1 hr(4th Task) till 7:30 do this !!
+
+- Company Work 1 & 1.2hr (3rd Task) till 6:30 do your work !!(DONE)
+
+- Core java 2sets(50% done) 1 hr(5th task in office)
+
+- Angular 1/2 hr (5th task in office) (at home)
+
+- Hibernate 2nd lecture finish(Done) and 3rd one should be done 100%!!(this task should be at home)(1st task)
+
+- if time allows Angular At home as well !!
+
+
+after reaching home : 
+	- ecommerce finish lecture 2(priority)
+	- Hibernate complete 3rd lecture(priority)
+	- 1 article of Vivek
+	- 1 DSA question - k anagram in a string 
+
+___________________________________________________________
+
+16th jan 2024 
+
+- ecommerce 2nd to 6th
+
+- DSA 2 question - 1 binary search problem & 1 recursion problem & 1 Heap problem(to be done at home)
+
+- hibernate 2 lecture (finish)
+___________________________________________________________________________________
+
+17th jan 2024:
+	- ecommerce(bit of this is done)
+	- Company work ()
+	- Vivek 10th Set
+	- DSA 3 question(1 question is done_)
+	- Hibernate finish !!(I'll try to finish this)
+___________________________________________________________________________________
+
+18th jan 2024: 
+ - Threading (this will be done)(DONE !!!!!!!!!!!!)
+ - company Work (X)
+ - e-commerce (I'll do this in office only) (DONE 2 lectures) 
+ - hibernate (finish)(at home I'll complete this)(2 hour) 
+ 
+ - I am going with one lecture of hibernate
+ - Rest will work on ecommerce!!
+____________________________________________________________________________________
+
+19th jan 2024:
+
+	- ecommerce 10th and 11th(about to complete)
+	- 10th set of interview question(Done)
+	- company work(Done)
+	- 11th and 12th set
+	- DSA 4 question(subset sum, Subset sum ||)
+
+____________________________________________________________________________________
+
+20th jan 2024 :
+
+	- ecommerce 12,13,14,15,16,17(On priority)
+	- SB 1 hour interview question(on priority)
+	- Try to finish one article if possible !!
+	
+____________________________________________________________________________________
+
+21st jan 2024:
+
+	 Trip to gwalior
+	 
+ 	 - ecommerce
+	 break
+____________________________________________________________________________________
+
+23rd jan 2024:
+	- ecommerce 17,18,19(sud be done today)
+	- set of interview question -> 11,12(sud be done today)(|||)
+	- DSA 4 question(recursion & BS)(this is also done today)(X)
+	- Spring Boot 1/2 hour(this is also done today by 1:00am in the morning)(Will be done)
+	- Company WOrk as well complete the api (will be done)
+	- trading if set up allows us !! - (done)
+____________________________________________________________________________________
+
+24th jan 2024:
+
+	- Java interview - 13,14,15th (priority) Done(Some topics need some coverages) 
+	
+	- company work (Complete this)(done)
+	
+	- hair cut & Bank Work(Going for this)
+	
+	- ecommerce - 20,21(will work on this)
+	
+	- DSA 4 question(Recursion & BS)(priority)
+
+____________________________________________________________________________________
+25th Jan 2024 : 
+
+	In car : 
+		
+		- Collection 100% Complete (Collections, Internal Working Structure, Comparator & Comparable, All methods of different Collection Interfaces)
+		
+		- Spring Boot Lecture interview Question(TO_BE_INISHED)(1st this need to be done)
+		
+		- DSA stack and queue 2 question go through
+		
+
+____________________________________________________________________________________
+
+26th Jan 2024 : 
+	- Collection Some Question 
+	- Spring Boot 1/2 hour interview lecture !
+____________________________________________________________________________________
+29th Jan 2024: 
+	
+	in Car : 
+	
+		- Spring Boot lecture
+		
+		- DSA question Revision 3-4 question
+	 
+		- Core java Interview Question
+		
+	Nothing Is done till here !!
+____________________________________________________________________________________
+	
+30th Jan 2024:(May or may not be done this) 
+	
+	- Office Work 
+
+	- Spring boot 1 hour lecture (It was done)
+	
+	- ecommerce 20th Lecture !!
+	
+	- in train i'll do 2 lecture of Spring Boot first !!
+____________________________________________________________________________________
+
+1st feb 2024:
+
+	- ecommerce  in the mean time do this
+			
+	- Java Question Series() <- ->(Done)
+		
+	- Spring boot 1/2 hour 3 lecture (Done)
+	
+	
+____________________________________________________________________________________
+
+2nd Feb 2024 - 
+
+	early morning Flight  :- 
+		a. Collection Lectures !!
+		b. Spring Boot Interview Question
+		c. Beverly Park - 
+			a. Ecommerce Site work - 21,22
+			b. DSA question 
+		
+	
+____________________________________________________________________________________
+2nd feb 2024:
+
+	- ecommerce 30,31,32(X)
+	
+	- Recursion 2 question from sheet(X)
+	
+	- Spring Boot Series in flight (X)
+	
+	- Collection 2 question And 1 article Question 
+	
+	- SLeep
+____________________________________________________________________________________
+
+5nd feb 2024: 
+
+	- ecommerce website Building (2nd) 1 lecture 
+	
+	- Angular Start daily 1 hour (at home Only !!)(4th) 2lecture
+	
+	- Article of Java Interview question Collections(3rd)(that's fine)
+
+	- DSA => Binary Search 1 to 4 sheet question( Start your day by solving 2 question of BS ) at Beverly park try to solve 2 problem of this !!
+	
+	- Collections at 1.5X speed watch the whole content !!(1st)(at baverely Park) this should be finish !!
+____________________________________________________________________________________
+
+6th feb 2024:
+	
+	- ecommerce Content 21,22
+	
+	- Angular Start Course to go through till 73
+	
+	- recursion 5th and 6th from sheet
+	
+	at home 
+		- What we can do is : 
+			- ecommerce site Completion 
+			- Collections 
+____________________________________________________________________________________
+
+7th feb 2024:-
+	
+	- Collection article done() & Java Articles to be done in office
+		
+	- ecommerce (this need to be done) start this
+		
+	- Angular lectures 74,75,76 then this will do
+	
+	- Company work to do
+		
+	- DSA at home
+____________________________________________________________________________________
+
+8th feb 2024 
+	
+	- ecommerce 26,27
+
+	- Angular Start 77 to 80
+	
+	- Spring boot 3rd lecture
+	
+	- java interview question
+	
+	- DSA recursion / Arrays / String 
+____________________________________________________________________________________
+
+9th feb 2024 
+	
+	- ecommerce 28,29 half
+	
+	- Angular Start 81,82
+	
+	
+	
+	- article in java 
+	
+	DSA -> Recursion / BS/ Arrays / Strings
+
+_________________________________________________________________________________
+
+From this day DSA And Interview Problems to be boomed and
+
+
+
+12th feb 2024 :  
+	
+	
+	- Spring boot 4th(done) And 5th() will be done in train !!
+	
+____________________________________________________________________________________
+
+14th feb 2024: 
+	
+ =>	9:30 onwards -> Spring Boot Interview Question(Need to go through this)
+ 
+ => Angular Content 70 to 75
+
+____________________________________________________________________________________
+15th feb 2024:
+
+	=> Angular
+	
+	=> DSA Question BS & Arrays 2nd (Important) BS 2 question & Arrays Question Revision !! 3rd
+	
+	=> Spring Boot 1.5 hour Interview Question 3rd( this should be completed by today) by Night 2nd thing to do!! (Done)
+	
+	=> 1 hour ecommerce website 5th (as much as possible ) by 25th I'll complete this !! at night we will do this
+	
+	=> Angular + Spring boot finish 
+
+____________________________________________________________________________________
+
+16th feb
+	
+	=> Interview prepration and DSA () 
+		-> Microservices - interview question 
+		-> Spring Boot Last lecture of this 
+		-> DSA Arrays, String, Linked List 45 question of this 
+		-> Java Question
+		
+	Spring boot Cloud and microservices => () 9:30 to 1:00 am
+	
+	
+	- Microservices ka lecture (Done)
+	- 5 question of DSA !!(done)
+	- Spring Boot lecture 
+____________________________________________________________________________________
+
+17th feb 2024:
+	
+	- Samidha (Java basics 
+				-> JVM, JDK, JRE
+				-> JAVAC compiler and Loading linking and initializations
+				-> JVM memory mgmt			
+				-> Collections Framework Diagram with example
+				) Morning Session  - DONE 
+	
+	=> Interview Process:
+			
+			- Java Coding Question & Interview Question 
+			- Spring Boot Interview Question (Not Done)
+			
+	- Spring Boot 3 hours 9:00pm to 1:30am 4 hours (Not Done)
+________________________________________________________________________________
+
+18th Feb 2024: 
+	
+//	- "INSTA < 1hr"
+	//- Samidha(Exception Handling & Collection Flow chart) 9:30am to 12:30pm About to start()
+	
+	- Spring Boot interview Question(going through this) DONE
+	
+	- Java coding question 
+	
+	- Arrays problem to be solved
+
+	- Spring Cloud nd microservices( important ) 9:30pm to 1:30am (X)
+___________________________________________________________________________________
+19th Feb 2024:
+
+
+	Travel to delhi:
+	- Interview Question in train -> Ajaya Rathod()
+	- DSA question in train -> arrays and all
+	- 1 hour in depth studies()
+____________________________________________________________________________________
+
+20th feb 2024: 
+	
+	1st Office mein - Arrays problems (left rotation prob2 & subarray problem !!
+	
+	2nd Company Work(this will done) some part is done !!
+	
+	3rd Spring Cloud and Microservices (need to start this)(X) -> Not doing this because of interview Prepration 
+	
+	4th DSA binary Search Question 
+	
+	
+	- DSA Binary Search problems + 2 problems of arrays() at home 
+	- Interview Question ()
+	
+	make notes of every question and revise them 
+	if You solve a problem on the daily basis then first thing in the morning is to go through that logic revise it then do your next things 
+	
+	
+	- DSA - arrays & BS 
+	- Spring Core concepts 3 articles
+____________________________________________________________________________________
+
+21st Feb 2024:
+	
+	
+	- DSA - Blind 75 list Arrays would be done 
+	
+	- DSA - Insta question would be done
+	
+	- Interview Question of Java articles I have open need to go through that only !! 6 articles of Java (till 4:00pm )
+	
+	- 1 article of Java Interview Question !!
+	
+	- product of array except Itself
+	
+	
+	
+____________________________________________________________________________________
+
+22nd feb 20204:
+	
+	1st 4 articles of Java Spring Boot 
+	
+	3rd task is to Blind 75 linked list problems 4 problems
+	
+	4th task is to read article again 
+	
+	5th task is to go through the Array & Strings problem 2 problem of array 	
+	
+___________________________________________________________________________________
+
+23rd Feb 2024: 
+
+	- Samidha Task need to be (!done) 
+	
+	- DSA Question to be solved arrays & String only Questions 
+	
+	- spring security with jwt how it works (Important) need to be done ()
+	
+	- interview question 2 articles()(!Done)
+	
+	- Angular 1hour at max !!
+____________________________________________________________________________________
+
+
+24th feb 2024:
+	
+	------------- Break ----------------
+	
+	1 Docker 1/2
+	
+	=> Ghoomne jana hai 
+	
+	=> Aake yh padhna hai for an hour interview Articles 
+
+	=> Finally DSA Question krna hai -> Reverse each word in a string , Character Count, Longest Substring Without Repeating Characters,
+	   Longest Repeating Character Replacement, Minimum Window Substring, Valid Anagram Group Anagrams
+
+	
+	=> Bit of SQL Question
+	
+	
+	
+___________________________________________________________________________________
+25th Feb 2024: 
+	
+	Take notes of Hibernate and JPA --> 
+	=> Read Article for Interview Question()(Start -- END)
+	=> String question() 2 question solved 
+	=> Docker()
+	=> DSA -> Arrays and Strings()
+	=> Angular if time permits() X
+	
+	=> After shopping 
+			-> Docker 
+			-> interview problem
+			-> DSA question 
+	
+	
+___________________________________________________________________________________
+
+26th feb 2024: 
+	
+	=> 1st task is Spring Cloud & Microservices 2 hours(start)	(Should be the last topic to learn at day end)
+	
+	=> 2nd Task 1/2 hour DOCKER (Willl start this) 1st task
+	
+	=> DSA Question To be on Arrays & Strings & Linked List (revise the problems first then solve new one)(BLIND 75 problems) 2 hours 4th task
+	
+	=> an hour of Angular Deep Dive 2nd task 
+	
+	=> Interview question and article 2 hour 3rd task 
+	
+	**************** BREAK ********************************\
+	
+		=> Interview Question -> JPA And Its problems 
+		=> DSA Question Solving - Blind 75 X
+		=> 1/2 hour approx Spring Cloud & Microrservices X
+___________________________________________________________________________________
+
+27th feb 2024:
+
+	=> Docker 
+	
+	=> DSA question and Problems 
+	
+	=> Interview Question 
+	
+	=> Angular Lecture 1 hours
+	
+	=> Spring Cloud & Microrservices
+	
+	=> Company Work !!	
+	
+	************* Break **************
+	
+	-> Interview Question
+	-> DSA
+	-> SQL
+	-> Angular
+___________________________________________________________________________________
+
+28th feb 2024:
+	
+	=> Company work (some what 10% is done)
+	=> SQL question problems should be done
+	=> DSA Problems Sorting Problems(Insertion Sort, QuickSort)(DONE_)
+	=> Microservices Question
+	=> Angular Lecture - at night I'll watch this
+	
+	=> At home()
+		1. Angular 1/2 hour()
+		2. SQL question()
+		3. DSA question(done)
+___________________________________________________________________________________
+29th Feb 2024 :
+
+	1. DSA Question backtracking problem a
+
+
+____________________________________________________________________________________
+
+1st March 2024:
+
+	1. DSA practice in Office blind 75 + Recursion !!(Working on it )
+	2. System Design Concept (5:00 pm)(Done 2pl , 3pl, SAGA) 
+	3. Angular Lecture
+	4. Company Work (Done)
+	5. Interview Question
+	
+____________________________________________________________________________________
+2nd March saturday !!
+	
+	1. DSA practice, recursion 3 Backtrack prob & Blind 75 question of linked List(DONE) complete
+	
+	2. System Design Concept, 1 - lecture(at night we will do this) => Database Indexing {event : started}
+	
+	3. Angular Lecture, do this (Start from scratch and work on it) 1/2 hour
+	
+____________________________________________________________________________________
+	
+3rd march 2023 Sunday (Relax Day Nothing Happened Today)
+	
+	These 2 are priority task 
+	
+	1. " System Design Concept " Concurrency Controle in System Design & Database Indexing Should be done
+	2. " DSA practice " 
+	3. 	Angular 
+____________________________________________________________________________________
+
+4th march Monday :
+	
+	1. DSA Problem and revision Strings till Valid Palindrome Done()
+		-> Minimum window substring 
+		-> Valid Anagram (done)
+		-> Group of anagram (Done)
+		-> Valid parnathesis (done)
+		-> Valid Palindrome (done)
+		-> Longest Palindromic Substring(done)
+		-> Palindromic Substrings(done)
+	
+	2. Angular Lecture 1/2 hour
+	
+	3. Company Work(done)
+	
+	4. System Design Database Database Indexing In java !!
+	
+	5. Resume update & Apply in jobs !!
+____________________________________________________________________________________
+
+5th march 2024: (NOt DONE ANYTHING BCZ OF SICKNESS)
+	
+	1. DSA practice in Office (recursion + String + Linked List)
+	2. System Design Concurrency Control !!
+	3. Angular Lecture 1 hour 
+	4. Company Work 
+	5. Interview Question 1/2 hour 
+	6. At Home Build Ecommerce from scratch 9:30 to 11:30 
+	7. before Sleep Revise the DSA Question 
+
+	
+____________________________________________________________________________________
+6th march 2024 :
+	
+	> DSA Revision is done (Recursion problems need to solve + Strings(minimum window, Palindrome substring)(3rd task)(done_)
+	
+	> Angular (after bath this should start)(2nd task)(done_
+	
+	> System Design - Database Indexing (1st task)+ "Concurrency Control"
+	
+	> Java/Angular/Interview Question(last task)
+	
+___________________________________________________________________________________
+
+7th March 2024:
+
+	> Company Work(done_)
+	
+	> Angular(1 hour) => (IMP)(Done)
+	
+	> System Design -> Indexing & Concurrency control!!(IMP)
+	
+	> DSA questions -> Recursion only + revision
+	
+	> at night 1/2 hour of Java basics concept
+___________________________________________________________________________________
+8th march 2024:
+	
+	> System Desing Concept -> Database Indexing 
+	> AWS concepts 
+	> Angular 1.2 hour is enough 
+	> Oop's java question
+	
+___________________________________________________________________________________
+
+9th March 2024:
+	
+	> System Design Database Indexing, Concuurency Control
+	> AWS Start()
+	> Angular 1hour
+	> Oop's | Java Interview Questions GFG Article
+
+___________________________________________________________________________________
+
+10th March 2024: 
+
+	> System design Concept -> Data Base Indexing(Started) -> Done
+	> Angular(1 hour) till 84 tak lecture 
+	> GFG Java Concepts (done_)
+	> MYSQL Start 1/2 hours
+___________________________________________________________________________________
+
+11th March 2024: 
+	
+	> Design pattern (1 design pattern study)(started) to (Done)
+	> System design (study till you want it)(Not possible)
+	> Angular 2 hour (do this)(this will be done)
+	> DSA ->)
+	> At night OO's Concepts(after Angular)
+	> Mysql lecture as well !!
+
+___________________________________________________________________________________
+12th March 2024:	
+
+	> DSA question most asked interview question in Interview 
+	> Java Interview Question 
+	> Spring Boot interview question & Microservices !!
+
+NOTE : Daily DSA is Must to solve random topic 4 questions and revision
+____________________________________________________________________________________
+
+
+13th March 2024: 
+		
+	> Design pattern(done)
+	> DSA 1 Binary tree & 1 recursion()
+	> Mysql (X)
+	> DSA Publicis sapient question(X)
+	> DSA sapient qusestion X
+	> Java Interview Question X 
+	
+	DSA : Binary Tree + Recursion + Sapient Question
+	MYSQL Lecture  
+	
+	Ghr jaake : 
+	=> Binary Tree Lectures
+	=> Java JVM inner class  	
+___________________________________________________________________________________
+
+14th march 2024: 
+
+
+	> Design Pattern prototype and strategy and so on ....(Done)
+	
+	> DSA Trees lecture and recursion problems and revision that's it
+	
+	> Java Topics -> JVM 4 topics and 4 topics of inner class.(Ghr pr before Sleep)
+	
+___________________________________________________________________________________
+15th march 2024:
+
+office me aakr:
+	1st task > Mysql Lecture -> 11:00 am to 1:30 pm (Done)
+	
+	1:30pm to 2:15 lunch !!(done)
+	
+	2:15pm to 5:00pm DSA
+	break finis start at 15:12pm to 5:45pm
+	2nd task > DSA -> Trees DS & publicis sapient(Done)
+	
+	9:30pm to 12:00 am
+	task> Java -> Interview Question Revision(must go through)(DONE)
+	
+	System Design Concepts in depth then sleep(Must)(DONE_)
+	
+___________________________________________________________________________________
+16th And 17th March 2024:
+	
+	16th march 2024 :	
+	
+		> DSA Trees question & Revision of the questions + Revison of other question + ARRAYS + STRINGS(done)
+		
+		> Mysql 2 hours after interview (done)
+		
+		> Infosys Interview(started) - (Done)
+		
+		------ After Dinner -----
+			> Arrays Problem 
+			> System Desing Consistent Hashing 
+			
+___________________________________________________________________________________	
+	
+17th march 2024 :
+
+	> DSA Revision
+	> AWS lecture
+
+	
+___________________________________________________________________________________
+
+18th March 2024 to 31st March 2024: follow this blindly !!
+
+	> DSA -> Arrays and Binary Trees Problems + Revision
+	
+	> System Design -> 1hour lecture(this should be done)
+	
+	> AWS 1 hour
+	
+	> Java Topics Revision got the knowledge of Synchronized & Vectore & Legacy Class in java
+	
+	> Mysql bhi 2 hours
+	
+	> Reliance Digital Bhi jana hai For Mobile Phone
+	
+	
+	******************** After Lunch *********************************
+	
+___________________________________________________________________________________
+
+
+19th march 2024: 
+
+	after dentist :
+	
+		> DSA Question trees & Revision
+		
+		> System Design - Will complete this
+		
+	At Home :
+
+___________________________________________________________________________________
+
+20th March 2024:
+
+	> 4:30pm Interview Of Infosys()
+	
+	> DSA Question to be solved 2(Sum of two integer & Vertical order traversal & Bottom view of the tree) rest revision 
+	  question & Rest revision of question !!
+	  
+	> System Design URL Shortener design System !!
+___________________________________________________________________________________
+
+21st March 2024:
+	
+	after lunch :
+	
+	> DSA  Done
+	
+	> Java 2 article read 
+	
+	> Mysql 1 hour 
+	
+	>  
+____________________________________________________________________________________
+
+22nd March 2024:
+	
+	> Mysql 
+	
+	> AWS
+	
+___________________________________________________________________________________	
+
+23rd march 2024: 
+
+	> My Sql Lecture 
+	
+	> Java topic 
+	
+	> DSA Revision and Learning 
+	
+	> AWS 
+	
+	> System Design and learning !!
+	
+	I am just going to revise what ever I have Done 
+		> DSA 
+		> Java
+		> Mysql 
+___________________________________________________________________________________
+
+24th march 2024: 
+	
+	MYSQL - as much as possible tomorrow !!
+	DSA - Old question Revision 
+	Java topics at night 3 articles !!
+___________________________________________________________________________________
+
+25th march Holi:
+	=> Java Article from Vivek Kumar 
+	=> DSA Revision	question as much as you can
+___________________________________________________________________________________
+
+26th march :
+	
+	=> DSA Question Revision 
+	=> Java interview question revision 
+	=> System Desing - HA / Distributed Messaging Queue / Everything about JWT + Url desing System 
+	=> Mysql Learning 2 hours
+	
+	/*\ After bath \*/
+		-> Spring boot question Done
+		-> DSA 6-7 question (Done)
+		-> At night System Desing concept
+		
+	system design 2 lectures and 
+	Java 2 articles
+	dsa 3 question Linked list,array, binary search
+	
+	daily raat me 9:45 to 12:30 must
+___________________________________________________________________________________
+
+27th march 2024:
+	
+	=> Java articles hibernate and all !!(Done)
+	=> DSA Question Linked List | Binary Tree 2 ques | 1 prob of arrays | 2 problem of Binary Search
+	=> System design articles || Mysql
+	
+	High availablity & Design Distributed messaging Queue
+	
+	Question of DSA ->
+___________________________________________________________________________________
+
+28th March 2024:
+	
+	=> Java articles Revision of interview Question and all (Done)
+	
+	=> DSA Revision of different topics (done)
+	
+	=> 3:00pm interview !! DONE
+	
+	=> Mysql 1hour
+	=> System Design 1 topic
+	=> AWS Start ( must started thing )
+	
+	
+___________________________________________________________________________________
+
+29th March 2024:
+
+
+		1. start your day with 1st AWS Lecture 
+		2. Mysql Lecture + SQL Queries Solution 
+		3. DSA ( Binary Trees + Sliding Window Problem)
+		4. System Design 1 or 2 lecture
+		
+		1. Start AWS Lecture 
+		2. Mysql 
+		3. System Design 
+		4. DSA - 3 question and 2 question to be solved 
+		
+after dinner : 
+	AWS lecture 
+	System Design 1 lecture 
+	3 question in dsa 
+		
+30th March 2024: 
+	
+	in morning : 
+		Breakfast 
+		packing 
+		1 hour aws 
+		1 hour system design 
+		1 hour mysql 
+		
+		then 3 question of dsa 
+		
+		in train :- Hibernate study must be done !! 
+	
+
+		
+till 31st  march :
+
+	: Mysql
+	: 1/2 hour of AWS
+	: DSA question revision and problems
+
+___________________________________________________________________________________
+
+1st april 
+	office 
+		: dsa 5-6 question of Binary tree and Sliding window problems 
+		: AWS 1 hour 
+		: System desing 1 hour 
+		: Mysql
+		: DSA Question Revision + Java topic Revision;
+		: Early morning Job Application 
+		: Stock market watch list 
+____________________________________________________________________________________
+
+	System Design
+	AWS
+	Angular
+	desing of HLD
+	Kafka 
+	DSA
+	Website Ecommerce
+	Security authentication mechanism
+
+
+
+___________________________________________________________________________________
+
+1st April 2024: 
+
+	1. DSA Question of Binary Tree and Sliding Window
+	2. AWS Lecture 1 hour window to be done 
+	3. Mysql to be done !!
+	4. System Design 1 lecture 
+	5. Try to make notes of commonly asked question in java 
+
+major highlight are as follow in april : 
+		1. Angular 
+		2. AWS 
+		3. System Design 
+		4. DSA
+
+	1. Try to finish the AWS and get the concept behind it 
+	2. Along with step 1 work with angular 
+	3. after step 1 & 2 stat working on your full stack project 
+	4. after full stack project work on Docker / Kafka 
+	5. last week of april give your everything to authentication 
+	 
+	6. With point DSA is must daily do grindin in that !!
+	7. System design LLD + HLD Practice weekly 2 designs is enough 
+
+
+___________________________________________________________________________________
+1st April 2024: (X)
+	
+	Not done any of those things 	
+	1. AWS lecture 45 min(will do this)
+	2. DSA question (reverse linked list recursion(done), Root to node path in BT(done), Diamete of BT(done), Sliding Window 1 problem, 4some problem)
+	3. Mysql Lectures 45min (will do this)
+	4. System Design 45 hour
+	5. SQL Queries to go through
+___________________________________________________________________________________	
+2nd April 2024:(X)
+	
+	1. Start AWS give 45 minutes to it (Start this) priority 
+	2. DSA - Binary Trees question and Sliding Window protocol (prority)
+	3. Mysql full power +sql question (1 hour + Queries revision)
+	4. System Design (45 minutes)(At night 1 hour )
+	
+	after eating something:
+		DSA Question
+		System Design 
+____________________________________________________________________________________
+3rd April 2024: 
+	
+	1. Start your Day with Mysql (2nd task is this )
+	2. DSA question Solve 3 question (Done diameter, node to root path)
+	3. AWS 45 min (3rd task is this)(Started)
+	4. System Design 45 min (4th task is this )
+	5. Bua k yha pr jana h(will be done)
+	6. (5th task is to revise the problems and solve some more problems)
+	
+____________________________________________________________________________________
+4th April 2024: 
+	
+	> DSA question : 2-3 question revision, print nodes at k distance, Sliding window 2 questions 
+	> System Design -> Full power topics studies (HA) lecture 
+	> Mysql (Full fiesta)
+	> Design Pattern
+	
+	After Lunch :
+	
+		1. System Design (HA)(Done)
+		2. DSA Questions 2 to 3 question 
+		3. Mysql (full power) 1 hour !!
+		4. Design pattern ( revise 2-3 of them and ) after dinner do this and Question if 
+___________________________________________________________________________________
+5th April 2024: 
+
+	> DSA Question (Binary Trees & Arrays)
+	> Mysql(first complete this)(will see tonight)
+	> System Design (Queue Lecture)(done will be done)
+	> Interview @5:00pm to 5:30
+	
+___________________________________________________________________________________
+
+6th April 2024:(X)
+
+		> System Design 
+		> Mysql And queries make notes of 
+		> 2 articles of java Notes 
+		
+
+___________________________________________________________________________________
+7th April 2024: (X)
+
+		> System Design Lecture 30 minutes 
+		> Java Spring Boot 2-3 topics notes 
+		> DSA Question (2 BT, 1 Binary Search, 1 Sliding Window)
+		> Mysql Lecture & Queries Notes
+___________________________________________________________________________________
+
+8th April 2024:(X)
+
+	office jaake :
+		> System Design Lecture 0 to million users(P_)
+		> Java spring Boot Question and Answer(P_)
+		> mysql lecture and Queries finish this(P_)
+		> DSA question Revision (1-binary tree problem, 1-Binary Search, 1-Sliding Window problems)
+		
+		Week mein 4 days AWS & 4 Days Angular
+		in 7 days One Day will be overlap
+		
+		
+		the small thing is this:
+			1. DSA Question First come to office and solve with full fledge
+			2. AWS
+			3. System Design
+____________________________________________________________________________________
+9th April 2024: 
+	
+	> System Desing lecture(1 hour)(must)(will be done)
+	> 2 hour of DSA binary tree & Binary Search(must)
+	> Java Spring boots(Must)
+	> Interview(1/2 hour)(done)
+___________________________________________________________________________________
+10th April 2024:
+	
+	
+	> 2 hour of DSA revision & Revision 11:00am to 1:00pm(binary Search and Diameter of Binary Tree + sliding window & array string revision)
+	> Java interview Question (2:00pm to 4:00pm)(hibernate + Spring boot annotations + Java OOP's)
+	> Mysql (4:15 to 5:30Pm)(X)
+	> 2 hour of AWS (6:00pm to 7:30pm)
+	
+	After Lunch :
+	
+	DSA : 
+		Binary Search
+		Sliding Window
+		Arrays Revision
+	
+	Mysql Queries for 1 hour 
+	
+	AWS 1 hour 
+	
+	Java Interview Question
+	
+____________________________________________________________________________________
+11th April 2024: 
+
+	10:00 am in the office
+	
+	> DSA question and revision (Binary Search(done) + Arrays + Trees + Sliding Window + 2 pointers
+	> Mysql
+	> DSA
+	> System Design 2 hours(X)
+	> 2 hour of AWS(start from today onwards)(will do this for surE)
+	
+	> 1 hour of AWS & 1hour of System Design + Java Interview Question & Coding Question
+	
+	interview at 6:00pm After interview Will go through the AWS lectures
+___________________________________________________________________________________
+12th april 2024: 
+	
+	1. DSA revision
+	2. Java Concept Revision and interview prepration
+	3. Go through the System Design Concept
+	4. SQL Queries 
+	6. Interview
+	7. AWS 1.5 hour in office
+	8. System Design 1 hour in office
+	
+	-----------------------------------
+	=> AWS 
+	=> SQL 
+	=> Coding question
+	
+___________________________________________________________________________________
+13th April 2024:
+
+	=> CSS will do this
+	=> DSA Question Revision Tree 3 question & Revision of Sliding Window Question
+	=> AWS 1 hour start
+	=> System Design (cache design System)
+
+___________________________________________________________________________________
+14th April 2024:
+	
+	=> DSA Question Revision and Basics new Question Study 
+	=> System Design : 1 hour Caching & JWT token Understanding 
+	=> Java Spring Boot Articles + SQL + Mongo Db
+	
+	=> AWS start 
+	=> CSS
+	
+	
+___________________________________________________________________________________
+15th April 2024: 
+
+	1. DSA Question revision & Problem
+	2. Java Interview articles and note making + Kafka + All the question that is asked in interviews 
+	3. SQL + MongoDB
+	
+Interview:
+	Everything About kafka
+	5. AWS (1 lecture)
+	6. CSS(1 hour)
+	7. System Design caching system
+	8. 1 lecture of Angular As well
+	
+	System Design caching
+
+___________________________________________________________________________________
+16th April 2024: 
+	
+	1. Java And it's question 3 articles
+	2. SQL Queries
+	3. System Design Caching
+	3. DSA Question of Binary Tree & Sliding Window & Strings 
+	4. Interview 4:00 to 5:00
+	
+	=> AWS 1 lecture & System Desing
+	=> DSA Revision 
+____________________________________________________________________________________
+
+17th April 2024: 
+	
+	1. DSA Question Binary Tree + Sliding Window & revision of this 
+	2. Java (All the interview Question and all) all the question Asked in this
+	3. System Design Caching Done
+	4. AWS 1 lecture (at Home) ( will se this later)
+	5. revision Java Interview Questions 
+
+___________________________________________________________________________________
+18th April: 
+	
+	1. Revise the Java Spring Boot question and Read 3-4 articles (Done)
+	2. Revise the System Design Document
+	3. Read the Article of Kafka
+	4. Angular Lectures
+	5. System Design JWT topic
+	6. DSA question revision of all the topics
+	
+	a. 3:3o to 5:30 -> Sliding Window + Strings + Backtracking
+	b. Java articles(done)
+	c. Angular
+	
+	after tea break:
+	 1. DSA question 
+	 2. Angular Lecture 
+	 
+	 after Dinner : 
+		1. Sliding Window Protocol
+		2. System Design revision 
+
+___________________________________________________________________________________
+19th April 2024: 
+	
+	2. System Design JWT(Done)
+	3. 20 to 30 application for JOBS
+	after lunch:-
+	4. Java Question 3 articles 
+	5. Angular Lecture 3-lecture 
+	6. DSA -> 5 question of
+	
+	train journey:
+	=> Angular Interview Question 
+	=> Java Sprint boot question more in depth
+	=> DSA question go through
+___________________________________________________________________________________
+15th April 2024: to 21st April 2024:-
+
+	1. Java +  Spring Boot
+	2. SQL
+	3. AWS 7 - 8 lecture
+	4. 25 - 30 lecture of Angular
+	5. DSA
+	6. 4 lecture of System Design
+
+___________________________________________________________________________________
+20th April 24: 
+	
+	1. CSS2 hour 
+	2. DSA 
+	3. Angular 5 lectures 
+	4. Microserivices 1 lecture 
+	5. Java Spring Boot articles 
+	6. Admin Service Implement
+	
+20th April 2024: 
+	
+	1. DSA questions(will do this)
+	2. Java 3 articles 
+	3. Microservice 1 lecture (Will do this) 1 hour of this 
+	4. Angular 5 lecture 
+	
+	
+	
+21st April 2024:(Prepration for interview only) (NOT DONE)
+
+	1. DSA question 
+	2. Kafka Articles(imp)(3rd Task)
+	3. Java Articles Reading 3 articles(4th Task)
+	4. System design revision(5th task)
+	5. Angular Interview Question(6th task)
+	
+	after bath:
+		1. DSA Question 4 sliding window & 5 string questions (will do this)
+		2. Admin feature implementation (do this)
+		3. SQL Question
+___________________________________________________________________________________
+
+22nd April 2024:
+
+	
+	1. DSA Question - Question 4 sliding window & 5 string questions (will do this)(2nd task)(this will be done)
+	
+	2. Java articles(done)
+
+	3. SQL Queries(DOne)
+	
+	4. System design & design pattern (will revise this )
+		=> Hibernate
+		=> String problems solve karunga 
+	
+	5. Microrservices 1 lecture lastly yeah 
+	
+____________________________________________________________________________________
+23rd April 2024:
+
+	1. Start with Hibernate	(done)
+	
+	2. System Design Interview Question;(Done)
+	
+	3. DSA Sorting and String question & Java 8
+	
+	4. Interview (Done)
+	
+	5. Java articles & Design pattern 
+	
+	6. Interview 
+	
+	7. Shaadi 
+	
+	8. Microservice 1 lecture (Priority) + SQL Question !!
+	
+___________________________________________________________________________________
+24th April 2024: 
+	
+	
+	
+	At Night After Party:
+	
+	1. Microrservices 1 lecture 
+	2. Microserivices interview Question 
+	3. Coding Question
+	6. Resume Update karna ha -> Java8 , Remove AWS, Add Restful web Services, Hibernate, SQL & NoSQl, Mysql,
+
+___________________________________________________________________________________
+25th_April_2024:
+
+	
+	2. Microserivices Interview Question (Will log all the response question into the document) +  Java 8(1st task) 1 hour(doing this)
+	=> Coding Question interview (3rd Task) 5:00pm 	
+	
+	At night 
+	=> Test of company(at night)
+	=>  DSA Question will decide (Sliding Window 3 question + Revision)
+	=>  See off himanshi :(
+	=>  Microserivices 1 lecture 1 hour 
+	=>  Microrservices Question follow up
+	
+	
+	
+___________________________________________________________________________________
+
+26th April 2024: 
+
+All 4 task are mandatory rest last task according to time 
+
+	
+	
+	= Microrservices Interview Question(5-10 question) + SQL interview Question(20-25 queries karna hai)(1st Task)
+	
+	= Coding Question YT 5 lecture (2nd task)
+	
+	= Microrservices 1 lecture Try for 2 to 3 hours (4th task)
+	
+	= System Design Revision + URL Design Pattern 1/2 hour for the same 10 to 12:00 AM 
+	
+	= Microservices interview Question & Coding question from YT
+	
+___________________________________________________________________________________
+
+27th April 2024:(Not done anything )
+
+	= 10:30 am Deloitte interview question(done)
+	
+	= Interview Lecture (Microrservices Code-Decode | SOLID principle) 1st task  2pl & 3pl & asynchronous communication(will do this at night)
+	
+	= Coding question 1 hour (2nd task)
+
+	= Daily 100+ application on Naukari/ Linkedin/ Indeed/ Monster(5th task)
+___________________________________________________________________________________
+
+28th April 2024: (laptop issue)
+ 
+	= System Design -> Oauth lecture (important)
+	
+	= DSA Question ( bactracking + Sliding Window + Strings )
+	
+	= Coding Question (will do this) 1 hour 
+	
+	Set up every topic in Personal Laptop:
+	
+		- Interview question of Microserivices 
+		- SOLID principle
+	
+	= Interview Question : Microserivices lecture & java 2 article 
+
+	= Daily 100+ application on Naukari/ Linkedin/ Indeed/ Monster (last task)
+
+___________________________________________________________________________________
+
+29th April 2024: flow to be follow 
+	
+	= Microrservices insterview question (done)
+	
+	= DSA (SWP + STRINGS + BACKTRACK) 2:30 pm to 4:30 pm
+	
+	= Break()
+	
+	All 3 have to done :)
+	
+	= Coding problems (do as much as you can ) 2 hours of solving this
+	
+	= SQL Advance (done)
+___________________________________________________________________________________
+	
+30th April 2024: 
+			
+	= DSA question practice : SWP :2 & BACKTRACK : 2 & BST : 2(Imp) 
+	
+	= Coding question & Blind 79 questions (Imp)
+	
+	= Interview Question : Microrservices(all lectures) & 1 java article(1.3hr) & SD revision (IMP)
+	
+	= DSA blind sheet 
+	
+	= Articles read 
+	
+	
+	5:30 pm to 11:30 pm:
+	
+	
+		AWS interview Question (done) :)
+		
+		after dinner :
+		
+		---------------------------------------
+		Coding Question 
+		
+		DSA Question(SWP + BACKTRACK )
+		
+		---------------------------------------
+		
+		Microrservices Interview Question 1 lecture 
+		
+		SOLID & OOP's At nigt read the article
+___________________________________________________________________________________
+1st May 2024:  
+
+	=> Company test need to done() 
+	
+	= Microserivices Interview Question (10 - 1) lectures(going to start this)(done) for today :)	
+	
+	= Angular lecture or interview questions 1 hour try for 1/2 hour as well
+	
+	= Coding question from Youtube + DSA Question (SWP + BACKTRACK + String & Arrays)(at night will do this only) 
+___________________________________________________________________________________
+2nd May 2024: HP - (high priority)
+
+	
+	= Test of EGEN corporation.(1st Task)(Started) -> (Done)
+	
+	= DSA ques(SWP + ARRAYS + Backtrack + string question) + 
+			Coding Question(2nd Task) (Done)
+			
+	= Angular Interview questions(1 hour)(3rd Task)
+	
+	= Job application send
+	
+	********************************** BREAK *****************************************
+
+	= CI/CD Interview Question (1 hour)(4th Task)
+	
+	= System Design revision from Notes 
+	
+	= SQL Question from PDF(5th task) 
+	
+	= in between if nothings work around then read java question and all
+	
+	= Microserivices Interview Question 9 lectures(going to start this) (Some lecture of the same)(6th task)
+	
+	After break: 
+		1. Microrservices Question 
+	
+		after dinner:
+		= Angular 1 hour of this 
+		= 2 dsa question as well 
+____________________________________________________________________________________
+3rd May 2024: 
+	
+	= DSA (in morning only) & coding question in morning only(extreme morning or extreme night solve the dsa problem)
+	
+	= Kafka Article to be done and make note of imp points(50% is done)
+	
+	= 3:45 pm Interview Of TCS
+	
+	= Angular(this is must) for full stack role  1 or more than hour of interview question series 
+	
+	= Microrservices 4 interview question & answer from youtube(after interview)
+	
+	= at night Coding question and dsa problem as well (this is must to do)
+	
+	= AWS interview Question | Mongo Db
+___________________________________________________________________________________
+
+4th May 2024: 
+
+	= Angular Interview Question abhi yahi karunga bc mein 
+	
+	= DSA Question (BST | LL | SWP | Arrays)
+____________________________________________________________________________________
+5th may 2024: 
+	
+	= Packing & Cash deposit & Jeans pick up 
+	
+	= In train articles or revise DSA question from striver 
+	
+	= System Design practice || Microserivices || Angular 
+	
+___________________________________________________________________________________
+6th may 2024 : Monday(X)
+
+
+ghr pr jaake: Tea break then fresh n up hoke 
+	from 7:00pm to 9:30 pm DSA questions and practices \ = DSA question - Arrays & SWP & LL & BST(imp)
+	= Angular interview question after lunch(imp)(done)
+	= SPring Boot(started) & articles (imp)(this will be done)
+	
+___________________________________________________________________________________
+7th may 2024: 
+	
+	= DSA 
+	
+	= System design Cache LLD
+	
+	= Deloitte interview preprations first
+	
+	= assignment of Company navy mumbai(at night)
+___________________________________________________________________________________
+8th May 2024:
+	= Interview in deloitte 2:30pm to 3:00pm  (Formal_)
+	
+	= DSA -> neetcode 150 question topics wise problems(Not done today)
+	
+	= System design HLD () 1 hour
+	
+	= Angular 1 hour
+____________________________________________________________________________________
+9th may 2024:
+
+	= DSA Question 10 questions independently
+	
+	= System Design (do this LLD Programming)
+
+	= IBM Coding
+	
+	= Document submit of deloitte & Syan Soft(will submit this)!!
+	
+	
+_____________________________________________________________________________________
+10th may 2024:
+
+	= DSA question solution 10 question(will do this)    
+	
+	= Java article to read   
+		
+	= System design LLD / HLD   
+	
+	= DSA question -> Interval one's 
+____________________________________________________________________________________
+
+11th may 2024: From this day I'll start the DSA prepration daily 10-15 ques 
+	
+	= DSA Question (Two pointer & Interval series Question)
+	
+	= Bua k yha pr jana ha(will be done)
+	
+_____________________________________________________________________________________
+12th may 2024: Sunday !!
+	
+	= DSA question 10 To be start from scratch(Linked List)
+	
+	= IBM Coding round(X)
+	
+	= System Design - Cache Design (will try to do this only) 
+	
+_____________________________________________________________________________________
+13th may 2024: 
+	
+	= DSA Question 10 (Linked List 7 question & Intervals Question 3)(after breakfast)
+	
+	= Microserivices 1 lecture && SQl 5 question
+	
+	= Send documents to Reshma
+_____________________________________________________________________________________
+
+14th may 2024:
+	
+	= JOB Applications 
+	
+	= DSA ques 10
+			-> {arrays : 3, Two pointer: 2}
+	= IBM Coding Round question(at night Only) 1 hour(at home)(done)
+	= Angular Done !! 
+_____________________________________________________________________________________
+15th may 2024: (At home)
+
+	
+	= 100 application for jobs(by night) from 11:45 to 12:15
+
+	= DSA Question Solved 10 Randome question with revision  
+	
+	System Design HLD : {Twitter} ,  
+		DSA : {Intervals,Valid sudoku,BACKTRACK problems }By night solve this  
+	
+	7:45 to 9:00 pm : {Twitter : Design}
+	
+	home : {100 - 150 applications}
+	
+
+____________________________________________________________________________________
+16th may 2024:
+	
+	office 10:00Am
+	
+	{12:30 to 1:00PM Interview !!} after interview
+	
+	DSA Question : (Sliding Window:6, Linked:, Heaps : }(At night only)
+	
+	system Design HLD : { Notification services  } 2nd task
+	
+	100 jobs application
+___________________________________________________________________________________
+17th may 2024: (No Office) from this day !!
+	
+	12:30 -> Interview(about to start)
+	
+	DSA Question : 
+		{Question to SOLVE : 10Q} - backtrack 3 question , Heaps 3 question SWP - 2 question Linked List - 2 question
+	(1:30PM to 7:30PM)
+
+	{System design topics {Consistent hashing, Circuit Breaker, API Gateway, Distributed Tracing}{9:30 to 12:30}}
+	
+	{Kafka Article read}
+	
+_____________________________________________________________________________________
+18th may 2024: 
+	
+	= DSA 10 questions : {SWP : 6 question , Backtrack : Question}
+	
+	= Interview Test : {DONE}
+	
+	= System Design topics : HLD {URL Shortner}		
+	
+	= System Desing LLD :{Elevator} 
+	
+	= SQL Queries( 1/2 hoour do this)
+	
+	= Screening for warner bros( will do this)
+	
+	= Kafka article 
+
+
+_____________________________________________________________________________________
+19th may 2024:
+
+	{ at night : "Elevator Design","URL Short Designer"}
+	{"DSA" : 4 question {SWP}, "Linked List"}
+	{"SQL" : Queries}
+	
+
+_____________________________________________________________________________________
+20th may 2024: 
+	
+	:{DSA 5 ques}
+	:{HLD Design} - URL Shortner
+	:{DSA 5 question}
+	:{LLD 1 problem} - Elevator
+	:{SQL + kafka}
+
+____________________________________________________________________________________
+21st May 2024: achieve every task
+	
+	: 
+	:in officeD
+	: 2:30pm :{Design Parking lot system}(Started) { this will be done after this DSA }
+	: 2:30 to 5:30 - DSA question { Median data stream(D), 
+									Largest are in histogram(D),
+									Palindrom partition(D),
+									minimum window substring(),
+									sliding window maximum(),
+									Generate Parentheses(),
+									Evaluate Reverse Polish Notation(),
+									Next Greater Element(),
+									maximum meeting in a room(),
+									};
+									
+	: LLD : {Parking lot Design need to be complete}
+____________________________________________________________________________________
+22nd may 2024:
+	
+	: {LLD : {Snake & ladder}, {Parking lot Design}}
+	
+	: DSA Question - 10 {SWP(3), Stack(5),Binary Search(6)}
+	
+	: SQL Queries(24 & Subqueries)
+	
+	: FAIL OVer || Batch Vs Stream Processing
+
+_____________________________________________________________________________________
+
+23rd may 2024:
+	
+	: try to reach office by 10:00 am
+	
+	: 10:30 to 12:00 : - DSA Questions (BS(5))
+	
+	: 1:00 to 2:00pm interview (DONE)
+	
+	: revision of Sliding Window
+	
+	: Parking lot design
+
+_____________________________________________________________________________________
+24th may 2024: 
+	
+	: 12:00 to 1:00 Interview @liftOff LLC(DONE)
+	
+	: 2:30 to 4:00 {LLD : Follow LLD }
+	
+	: 4:00 to 5:30 { DSA : {10 - 12}}
+	
+	: By night : {Binary search & SWP & Stack should be done}
+	: 6:00 to 7:30 DSA {Tree problem(7), Interval Problems(3)}
+	
+	: SQL 5 queries to solve
+	
+____________________________________________________________________________________
+25th may 2024: (Rest)
+	
+	Interview() -- Done
+	
+	Kafka Article
+	HLD Article
+	
+_____________________________________________________________________________________
+26th May 2024: 
+	
+	: DSA Questions : Stack(Complete), Sliding Window(Revision), Trees(5) problem solve try to touch major topic
+	: 
+_____________________________________________________________________________________
+27th may 2024: 
+	
+	interview()
+	DSA : {Sliding window should be done , Binary search problems, Heap should be done, }(IMP)
+	: Collections article 
+	: HLD : URL DESIGN Pattern(at night)
+	: LLD Parking lot design pattern
+	: Kafka Article(IMP)
+
+_____________________________________________________________________________________
+28th may 2024: 
+	
+	interviews();
+	
+	DSA () question + Revision
+	
+	DSA Question revision -> Heaps,Strings, trees DSA Question, backtrack questions
+
+____________________________________________________________________________________
+29th may 2024:
+	
+	:	12:00pm -> KT
+	:	DSA questions(Heaps,Binary Trees, Strings,Binary Search)
+	:	Interview @5:00 to 6:00	(altimetrik)
+	:	Articles of Java  
+____________________________________________________________________________________
+30th may 2024: 
+____________________________________________________________________________________
+31st may 2024: 
+	
+	12:30 to 1:30 KT 
+	
+	: DSA Question (10 question)
+	: LLD (Elevator Design)
+	: Articles related to java 	
+	: 3:00 to 4:00 pm KT OF JSID
+
+_____________________________________________________________________________________
+1st June 2024: 
+	
+	: JP Morgan Test(7:00 PM test)
+	: 5 DSA question Revision
+	: JAVA 8 articles 
+	: Kafka Articles
+	
+____________________________________________________________________________________
+2nd June 2024: 
+
+	: Docs to Altimetrik(After Noon)
+	: DSA  question at night 
+	: By nigh JP Morgan test need to give by 12:00 AM(Must)
+	: 1 HLD problem to solve
+
+____________________________________________________________________________________
+3rd June 2024: 
+	
+	: Jp morgan test (Done)
+	
+	: KT start() Esign 
+	
+	: Kafka Article Must + Java 8(articles + practice & try to solve problems in java 8)(2nd task)
+	
+	: KT JSID()(DONE)
+	
+	: DSA 10 question(STACK),(Binary Search),(TREES revision + problems) (Heap 2 ques)(after kt First task)4:30 pm to 6:30pm 
+	
+	: 1 lld Problem Elevator 3rd task(6:45pm to 8:00 pm)
+	
+	: 1 HLD Problem Design Ecommerce web site (8:30 to 10:00pm) 
+	
+	: 1 hld design & DSA question at night
+_____________________________________________________________________________________
+4th June 2024: 
+(X)
+_____________________________________________________________________________________
+5th June 2024: 
+	
+	After KT start study in sequential manner: 
+	
+	FROM 9:30 TO 11:00 dsa 
+	11:15 TO 12:30 KAFKA
+_____________________________________________________________________________________
+6th June 2024: from this day till 20th Do dsa daily 
+
+	: DSA 15 question ->(Revision 5 problems)+
+					+ "" Greedy Problems 
+					+ "" Stack 
+					+ "" Graph (from Morning)from 10:30 to 12:30 DSA as much as possible
+	
+	: KT Session 
+	
+	: test altimetrik(not done)
+	: DSA questions (revision)
+	: at night (Java 8 & Kafka need to be done)
+	: DSA question revision
+
+____________________________________________________________________________________
+
+7th june 2024: 
+
+	From 4:00 pm : (
+			: Start with the Java articles 
+			: DSA Question Revision()		
+			: HLD
+	Hacker Rank Test at night after 11:00pm (done)
+
+_____________________________________________________________________________________
+8th june 2024: 
+
+	: Morning Task (HLD :E-commerce Gaurav Sen) (Done)
+	: DSA question revision(Sliding window,Linked List, trees, Arrays) && Graphs Problem to solve 
+	: At night complete Kafka & microservices Articles & java articles
+	
+_____________________________________________________________________________________
+
+9th June 2024: 
+
+	Morning 10:30 to 12:30
+		1HLD : Design rate limiter(35min), Netflix System(60 min) design(auto complete feature & Queue Message)
+	in train :
+	: Micrservices Interview Question & java Interview Question in train
+	: DSA Question(Sliding Window, Arrays, Trees(50), Strings, Linked List, Heap, 
+	
+	Gurgaon:
+		
+	10:00 pm to 12:30 pm: 
+		1. Stack
+		
+_____________________________________________________________________________________
+
+10th June 2024:
+	Interview(Altimetrik)
+	: Neilsen Technology Test
+	
+	: DSA Questions(Graph & Trees & Arrays)
+_____________________________________________________________________________________
+11th June 2024: 
+	
+	: DSA Graphs Question(DONE) need to do & Trees questions(5) & Arrays(5) & 3(stack question) & backtrack revisions(5)(at night)  
+	
+	: HLD Netflix design(From 6:15 to 7:15)
+	
+	: Microrservices Articles & Complete the Kafka articles as well (At night)
+	
+	: Interview At 4:00 Pm (Warner Bro's Discovery)(done)
+	
+	: at night Payment System design Go through 
+	
+	after 9:15 DSA question to do till 11:30 
+	
+	11:30 to 12:15 articles
+
+_____________________________________________________________________________________
+
+12th june 2024: 
+
+	by 10:30 Get back to home()
+	
+	From 10:45 to 11:30 HLD(difficult) 
+	11:30 to 12:30 JSID
+	12:30 to 1:30 e-sign 
+	
+	1:45 pm to 3:45pm (DSA Questions){Intervals : "2ques",Trees : "5ques", graph : "2ques", Stack:"Complete",Backtrack:"rev"
+									Random_Ques : "Revision"}
+									
+									{Sliding Window : 1, Arrays : 1, Strings : 1, Linked List : 1, Stack 5 Question)
+	4 to 5 interview
+	5:00 to 7:00 pm (design)
+	
+	9:00pm to 12:30 {DSA question : Kafka : LLD}
+	
+_____________________________________________________________________________________
+13th June 2024: 
+	
+   	: Test need to give re-biz();
+   	: DSA Questions to do()
+	
+_____________________________________________________________________________________
+14th June 2024: 
+	
+	:Interview() at 5:30pm
+	
+_____________________________________________________________________________________
+15th June 2024:
+	
+	: Git lecture 
+	: Trees Questions Lectures 
+	: Read about Microserivices setup(fancy app)
+_____________________________________________________________________________________
+16th June 2024:(Not Done Anything)
+	
+	: DSA Questions & Revision (Graph 3 questions, Trees questions,Arrays(Revision),(Interval),(Heaps));
+	: 1 HLD desing(Payment Design HLD)
+	: Design snake & Ladder (take 2 hours of time)
+	: Try to learn(Devops)
+	
+_____________________________________________________________________________________
+17th June 2024:
+	
+	: 1LLD - Snake & Ladder problem to solve (Done)
+	: 1.5 hour for DSA Questions(Graphs & Trees & Revision)
+	: CI/CD()
+	: Microservices Development & Study(Oauth)
+	
+____________________________________________________________________________________
+18th June 2024:
+
+
+
+____________________________________________________________________________________
+19th June 2024:
+	
+	: 1 HLD Design of Youtube 
+	: DSA Questions (Binary Tree problems & Graphs 3 questions & rest revision)
+	: 12:30 to 1:30 Interview 
+	: 4:00 to 5:00 pm Interview
+
+_____________________________________________________________________________________
+20th June 2024: 
+	
+	: Again Interview 
+	: 1 HLD design
+	: DSA Question(Graphs & Trees & Stacks)
+____________________________________________________________________________________
+21st June 2024:
+	
+	: 1 HLD Design 
+	: DSA Questions
+	: CI & CD 
+
+
+_____________________________________________________________________________________
+
+22nd & 23rd June : 
+	
+	: DO Complete CI - CD
+_____________________________________________________________________________________
+BY 23rd June 2024: 
+	:CI & CD
+
+
+
+June & July 2024 Flow of Learning :
+	
+	: CI & CD (in june it should be finish)
+	: Kafka & Spring boot(In june)
+	: Microrservices From Youtube()
+	: Microrservices Implementation & Kafka & Event driven programming
+	: AWS 
+	: Docker 
+	: System Design & LLD Problems (From git hub each and every problem to do)
+	: Daily 5 questions of DSA (Either solve it or solve new question)(Striver 450 ques & Work@Tech 6 months DSA Sheet)
