@@ -17,7 +17,7 @@ public class NextSmallerElement {
 
 	private static void nextSmallFromRight(int[] a) {
 		Stack<Integer> st = new Stack<Integer>();
-		int res[] = new int[a.length];
+		int[] res = new int[a.length];
 		res[a.length - 1] = -1;
 
 		for (int i = a.length - 2; i >= 0; --i) {

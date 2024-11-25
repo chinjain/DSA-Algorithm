@@ -5,19 +5,16 @@ public class ReverseString {
 	public static void main(String[] args) {
 
 		String s = "CHINMAYJAIN";
-		StringBuilder sb = new StringBuilder("nitin");
+        String sb = "nitin";
 		System.err.println(reverse(s));
 		
-		System.err.println("Value of pal"+ " " + palindrome(sb.toString()));
+		System.err.println("Value of pal"+ " " + palindrome(sb));
 	}
 
 	private static boolean palindrome(String s) {
 		
 		String str = new StringBuilder(s).reverse().toString();
-		if(str.equals(s))
-			return true;
-		else
-			return false;
+        return str.equals(s);
 		
 		}
 		

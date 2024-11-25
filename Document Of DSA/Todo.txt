@@ -1959,31 +1959,659 @@ ________________________________________________________________________________
 	: 1 HLD design
 	: DSA Question(Graphs & Trees & Stacks)
 ____________________________________________________________________________________
-21st June 2024:
-	
+21st June 2024:(X)
 	: 1 HLD Design 
 	: DSA Questions
-	: CI & CD 
+	: CI & CD
+_____________________________________________________________________________________
+23rd June 2024:()	
+	: CI/CD lecture full day Implementation 
+	: Microservices Start
+	: DSA 5 questions to solved(n queen & Sudoku)
+_____________________________________________________________________________________
+25th June 2024:
+
+	: Docker Lecture (1 hour Done)
+	: CICD around 1 hour of this need to be done!!
+	: DSA 5 questions(Backtracking : (n queen & Letter combination of phone number) & Heap & Stack)
+	: High Level Design problems to look into it(Design Digital wallet && 
+
+______________________________________________________________________________________
+26th June 2024:()
+	
+	: Udemy Kafka Event driven programming 5th task(1st start with this)(DONE)
+	
 
 
+______________________________________________________________________________________
+27th June 2024: 
+	
+	: CI CD Start() 1hour 12:30 to 1:45
+	: Udemy Kafka Programming 2 hour 2:30 to 4:30(try to reach Section 6)
+	: n queen + Letter Combination of phone number + Subset sum 11(4:45 to 6:00pm)
+	: Spring boot Junit test Cases
+
+______________________________________________________________________________________
+28th June 2024: 
+
+	: Event Driven Programing(done)
+
+	: Spring Junit Test Case (Section 6 complete)(X)
+
+	: Java Version Learning(X)
+
+	: DSA night (5 questions to do today)(X)
+______________________________________________________________________________________
+29th June 2024:
+	
+	: Junit Testing(till section 7)(at night)
+
+_______________________________________________________________________________________
+
+1st July 2024: 	
+		
+	: Junit Start(Section 7 tak aane ka try karo)(started)
+	: Event Driven Programming(Section 8 tak karne ka try karo)(Not possible today)(X)
+	: At night (System Design(HLD) - Payment Gateway)(10:00pm to 11:30pm)(X)
+	: DSA Questions(Revision of 3 questions)(11:45 to 12:30 revision)(Arrays medium level problems revision today)
+	
+________________________________________________________________________________________
+2nd July 2024:
+	
+	1. Junit testing lecture(Mockito &  Code coverages)(Done)
+	2. DSA Questions(At night) 10:30 to 12:30 {Set matrix 0, Leaders in an array, LL is palindrom, odd & even node in LL
+Add 1 to a number represented by LL, Add 2 numbers in LL}
+	3. Event Driven(Section 6) (done-)
+
+12:30 to 8:30 sleep()
+
+________________________________________________________________________________________
+3rd July 2024:
+
+	: Junit Test Case(8,9,10) 5:45 to 7:00
+ 	: DSA Questions(At night) "TIMING":"10:30" - "12:30"
+	: Event Driven architecture 4:30 to 5:30
+________________________________________________________________________________________
+4th July 
+	
+	: Event Driven programming(1 hour of this)(Section - 7,8,9)(2nd Task)
+	: Junit Test case(10, 11, 12)(4th Task)(Will think of it)
+	: DSA  @10:30pm to 11:45Pm : Set matrix 0, Leaders in an array, LL is palindrome, odd & even node in LL
+	  Add 1 to a number represented by LL, Add 2 numbers in LL, 2 pointers(4th taks)(Inportant task to do)	
+	: Meeting @3:00pm(3rd Task)(Cancelled)
+	: Composite Design Pattern(in btw @5:00 to 5:30)
+
+	
+	=> Composite Design pattern & Proxy pattern
+	=> Event Driven Kafka Programming(Try to covern as much as u can)
+
+________________________________________________________________________________________
+5th July 2024: 
+	
+	: Design Patterns (Composite pattern to do)
+	: Event Driven programming (2hrs)(section - 7,8,9,10,11,12,13)
+	: CI & CD 45 minutes
+	: DSA : (trees Questions)
+	: Meeting @3:30pm
+ 
+________________________________________________________________________________________	
+6th July 2024: Saturday
+	
+	: Adapter Design Pattern & Proxy Design Pattern
+	Break
+________________________________________________________________________________________
+7th July 2024: Sunday
+	
+	: Event programming -> Do this
+	: Design Pattern 
+	: CICD Course at night 9:00 to 12:00
+	Break
+
+After Dinner: 
+	a) Design Pattern 
+	b) Event Driven Programming
+_________________________________________________________________________________________
+
+8th July 2024:
+	Start your studies from this point & ( till 20th July 2024 Spring Security & Spring Event Programming & CI CD Should be done)
+	Rest Design Pattern Solve Daily & DSA Problem to solve Daily
+	Microservices Project Should be done by:- 10th August 2024 
+	
+
+d) Event Programming Section 12
+e) Design Pattern Adapter Design Pattern
+f) 3 trees DSA Questions
+
+__________________________________________________________________________________________
+9th July 2024:Morning itself
+	
+	a) Spring Event Driven programming : Section 9 & 10 morning try to do it(X)
+	b) Travelling to Gurgaon 
+	c) Company Work
+__________________________________________________________________________________________
+10th July()
+	
+	a) Event programming : Full Evening Go through the event programming(4hrs of marathon)
+	b) company call and work to do
+	c) JDK 17 knowledge need to take
+__________________________________________________________________________________________
+11th July 2024: 
+	
+	a) Spring Event Programming (as much as u can study)
+	b) KT Start from today itself : 2 to 4 pm  
+	c) Design Pattern : Adapter,Facade,Proxy Design Pattern
+
+__________________________________________________________________________________________
+12th July 2024 
+
+	2. Design Pattern --> Command & 
+	3. Event Driven Programming 1 hour today
+
+13th July 2024: 
+	
+	1. Code Walk through Morning 2 hour 
+	2. Design Pattern - State Design Pattern Using Vending Machine & Template Design Pattern
+	3. Event Driven programming 2 hour
+
+14th July 2024: 
+	
+	1. Code Walk through 
+	2. Design-pattern 2 questions
+
+15th July 2024: 
+	
+	1: Three controller value need to learn: Customer Eligible Controller(Done)
+	At night Register Controller
+	2: Design Pattern 2 (Command(Done) & Facade Design Pattern)(1st do this)
+	3. Event Driven Programming : up till Section 11 (3rd Task in the evening)
+
+16th July 2024: 
+	
+	a) Register Controller
+	b) Dedupe Controller
+	c) OTP Controller
+	12:00 to 2:00pm KT
+	3:30 to 5:00Pm (Code go through)
+
+	d) LLD -> 1 Design Problem(State Design Pattern) 6:15
+	e) Event Driven Programming (6:30 to 9:30) pm do this
+
+
+What u Can do daily is:
+
+1. Company Work 
+2. Development related Work 
+3. DSA 2 problems / LLD / HLD Practices 
+4. try to solve LLD & HLD Weekends Morning 
+5. Enjoy your life play tt Do exercise 
+
+
+
+21st July 2024: 
+
+   1. Wallet Onboarding ( Check Dedupe Controller, Mitra Flow Controller, Junk Pin Code & Validate Pin code Controller, Zkyc Controller)
+
+
+23rd July 2024:
+- Zkyc Flow to go 
+- NCMC Mitra Onboarding (Dedupe check)(Done)
+- Register Controller(Not Done)
+
+
+24th July 2024: 
+- Be serious now 
+- Company Work
+- Learning(Started)
+
+25th July 2024:
+
+	- Section 9 & 10 
+	- along with work 
+	- State Design Pattern
+	- Register Controller
+
+26th July 2024:
+	
+	
+27th July 2024:
+
+
+28th July 2024:
+	
+	- Follow through the Event Driven Programing
+	- State Design Pattern
+	- Register Controller 
+
+29th July 2024:
+	
+	- Design pattern -> Iterator & Null object Design Pattern
+	- Event Driven programming 
+	- If Design Pattern won't be able to do it then go for DSA revision & Event programming revision
+
+_________________________________________________________________________________________________________
+
+
+
+From September to october below things need to cover as a daily task 
+		
+		1. Microservices Course
+		2. Microrservices design pattern 
+		3. Low level design and practices 
+		4. Spring Security 
+		5. Kafka & Multithreading in java 
+		6. Spring Boot internall @Async & @Transactional annotations works 
+		7. DSA Daily 2 questions to solve any time 
+		8. Stocks
+		
+		
+1st September 2024
+	
+		- Company code of WMC & Wallet Revamp( will do this )
+		- LLD of ATM (will try to do this)
+		- Company work to do (will do this)
+
+
+2nd September 2024:
+
+	Daily follow this routine only !!
+	- By doing practices and notes complete this microservices & Java 8 feature along with MultiThreading
+
+
+September 10th 2024:
+
+Daily 1.5 hour development 
+Daily 1 hour DSA Striver & Neetcode questions revision
+LLD Problems to solve
+Yotube java videos in order and interview questions and revision.
+
+DSA topic wise study -> 
+Stack, Trees, Sliding Window, Recursion & BACKTRACK, Linked List,
+Heaps & intervals,
+Strings & Arrays, graph most asked question solution and algorithms
+
+Devlopment: 
+	1. Microservice & Spring security & interceptors and filters enough 
+	2. MultiThreading & Spring Boot actuator & AOP
+	3. Java features and collections and functional desings 
+	4. Queries design.
+	5. AWS 
+Do everything and interview is the process that's it do your studies Revise your old content 
+and microservices topics !!
+
+Before Going for interview study -> MS & Multi-threading & Kafka & Spring Boot concepts & LLD Design
+& 
+
+10th September 2024: 
+	
+	1. Dedupe new Api Integrations 
+	2. Microrservices 1.5 hours content
+	3. DSA questions revision 1hour 
+	4. LLD to do 1 hour 
+	5. 1 to 2 lecture from spring boot
+	
+11th September 2024: 
+	
+	1. Dedupe code for 4 to 5 hours continous.(done)
+	2. Micro services lecture 1.5 hrs.(will do it)
+	3. Sliding Window 2 QUESTIONS TO DO Min stack & Reverse polish notations (will do it)
+	4. 
+	5. LLD ATM design (not possible)
+	
+12th september 2024:(Not possible)
+	
+	1. 
+	2. Microservices 1.5 hours 
+	3. Sliding window 3 question + 2 questions from arrays
+
+13th September
+	
+	
+	1. Transactional annotations part1 and part2
+	2. java interview questions and answers
+
+Use your weekends day for Interview prepration and revision of the things 
+&
+Weekdays for work and learn new skills on daily basis
+		
+
+16th September 2024:
+	
+	start: 
+		
+		1. 8:00pm to 9:30pm -> Microservices (some what done)
+		2. DSA 3 questions
+		3. Spring boot lecture one 
+
+	
+17th September 2024: 
+
+	1. Dedupe API Work 2024: need to done testing with junit coverages & deploy & closed the story
+	2. DSA question 3
+	3. 2 hrs microservices
+	4. java 8 and it's features
+
+18th September 2024: not able to do anything !!
+	
+	1. Company work 10:00 to 6:20 
+	2. Micro-services - 2hours course need to learn
+	3. DSA Question 3 question need to go through
+	4. Java spring boot lecture 2 
+	
+19th September 2024: 
+	
+	1. Microservices course go through 
+	2. Code work on 
+	
+20th,21st,22nd September 2024: 
+	
+	1. Microservices understanding 12 hours
+	2. Multi threading course work 4
+	3. DSA questions 4
+	4. Java interview lectures & SPring boot lectures from Concept and coding(Imp) 6 
+	5. LLD Problems to solve(imp) 8
+	
+
+Make schedule simple and short first make the consistency of study !!
+
+22nd September 2024: 
+		
+	1. Microservices lecturs 
+	2. Facade Design pattern 
+	3. DSA Question 
+	
+
+23rd September 2024: 
+	
+	1. Company Work to do
+	2. Re-design resume
+	3. Microserivices 1 hour 
+	4. Java Spring boot lectures & DSA 1 question that is enough 
+	
+24th August 2024: 
+	
+	1. Java 8 to 17 features and practices 
+	2. Multi-threading course go through 
+	3. DSA Questions revisions 
+	4. Java Notes revision
+	
+25th September 2024: 
+	
+	1. Study about the dsa questions 
+	2. 
+_________________________________________________________________________________
+	
+	In October the work should be: 
+		
+		1. Microservice should be completed
+		2. Hibernate Start 
+		3. DSA problesm 
+		4. LLD design * desing pattern
+________________________________________________________________________________
+1st October 2024: 
+	1. till section 34 microservices (Start the process)(bit of done Only)
+	2. DSA Question -> Sliding Window Revision 2 question & Heaps introduction.
+	3. one hour go through the Spring boot concepts.
+	
+___________________________________________________________________________________
+2nd October 2024: 
+	1. Till lecture 65th of Micro service (priority)
+	2. DSA Questions => (Sliding window + Heaps + Strings(5 questions revision))(2nd Priority)
+	3. Spring boot lecture 
+___________________________________________________________________________________
+3rd October 2024: 
+	
+	1. Design Pattern 
+	2. Java 8 
+	3. Notes for revision
+	4. bit of microservices study 
+	
+___________________________________________________________________________________
+4th October 2024: Winter arc is started 
+	
+	1. Company work 
+	2. Interview prepration and revision Immutable, Java concurrency, Hibernate, Java 8
+	3. Interview @5:30
+	4. Microserivices lecture -> 34th & java concurrency framework 1/2 hours
+	
+_________________________________________________________________________________
+5th October 2024:	
+
+	1. 59 of Micro-services(2 days recovery) 
+	2. Multi threading lecture & Article Concurrency framework 1/2 hour !!
+	3. 1 lld & 1 design pattern 
+	4. DSA Question to solved
+___________________________________________________________________________________
+6th October 2024: 
+	1. 81 lecture of microservices (Cover remaining days lecture)
+	2. DSA Questions 
+	3. LLD Must question & Design pattern 
+	4. Spring Boot / Multithreading
+
+till this day I haven't done anything I will pick up the pace by 7th October 2024: 
+____________________________________________________________________________________
+7th October 2024:
+
+	1. Microservices Lecture to be start from today 7:30pm to 9:45 
+	2. DSA Question 10:00 to 11:00
+	3. Multithreading lecture 11:00 to 11:45 (45 min slot only)
+____________________________________________________________________________________
+8th October 2024:
+
+	1. Company Work till 3:00pm do consistent work without any distr
+	
+	2. Microservice 1.5 hours start with this slowly
+	
+	3. 1 DSA any problem to solve today !!
+	
+	start slowly 
+	
+____________________________________________________________________________________
+9th October 2024:
+
+	1. Company Work
+	
+	2. Micro services 1.5 hours & 1 dsa problem from 450 question of striver
+	
+____________________________________________________________________________________
+10th October 2024: 
+
+	1. Micro services lecture for 1hr   
+	
+	2. Dynamic programming for 1 hrs  
+	
+	3. Java version if time permits 
+	
+____________________________________________________________________________________
+11th October 2024:
+	
+	1. Microservices Lectures 
+	
+	2. DSA start with graph series 	
+____________________________________________________________________________________
+12th && 13th October 2024: 
+	
+	1. Morning session will be off 
+	
+	2. 5:30 to 10:30PM -> Microservices & DSA graphs & LLD 1 design pattern 
+____________________________________________________________________________________
+13th october 2024: 
+	
+	1. Microservices lectures 
+	2. facade desing pattern & Builder Design Pattern 
+	3. Design Parking lot system (From Udemy & YT)
+	3. DSA Questions 
+			
+	Because of health issue won't be able to do anything 
+	
 _____________________________________________________________________________________
 
-22nd & 23rd June : 
+14th October 2024:
 	
-	: DO Complete CI - CD
-_____________________________________________________________________________________
-BY 23rd June 2024: 
-	:CI & CD
+	0. Company Work (Done)
+	1. Micro services Will start : ()
+	3. DSA GRAPHS Series to start 
+	4. Builder Design Pattern
 
 
+Sorted Plan roll out: 
+	1. Microservices 
 
-June & July 2024 Flow of Learning :
+Interview Ready 
 	
-	: CI & CD (in june it should be finish)
-	: Kafka & Spring boot(In june)
-	: Microrservices From Youtube()
-	: Microrservices Implementation & Kafka & Event driven programming
-	: AWS 
-	: Docker 
-	: System Design & LLD Problems (From git hub each and every problem to do)
-	: Daily 5 questions of DSA (Either solve it or solve new question)(Striver 450 ques & Work@Tech 6 months DSA Sheet)
+	1. DSA -> Graphs, 
+	
+	2. HLD
+	
+	3. LLD -> Problems designing and Design pattern 
+	
+Daily Weekdays -> Dev + DSA 
+
+Weekends -> Dev + DSA + System Design 
+
+
+--------------------------------------------------------------------------------------
+18th October 2024:
+	1. Heap Lecture to go & hashing problem 
+	2. 1 lecture of graph
+	3. Spring Boot lectures 
+
+--------------------------------------------------------------------------------------
+19th October 2024 & 20th October 2024: 
+	 
+	2. Grpah lectures
+	4. Micro services 
+	5. LLD 4 design pattern & 2 Design problem from 1-yt & 1-udemy
+	1. 1 hour of threading content
+	
+----------------------------------------------------------------------------------------
+
+21th October 2024: 
+	
+	1. Microservices 
+	2. DSA - Graphs & Hashing
+	3. Company Work
+	
+
+----------------------------------------------------------------------------------------
+23rd October 2024: 
+	
+	1. Java Multithreading to learn 1 hour & 1 hour transaction in spring boot 
+	2. 2 greedy problems & 2 graph problems
+	
+----------------------------------------------------------------------------------------
+26th October 2024: to 30th October
+ 
+	Complete Kafka Course:
+
+	1. Kafka Lectures 
+	2. Multi threading 
+	3. 4 lecture greedy key 4 lecture graphs ke makes notes in Book !!
+	
+	
+	Project : 
+		
+		1. Create schedular service which will take file from a path and file must have millions of records 
+		2. remove the file from that path and rename that file via appendeing _processed in another folder 
+		3. process the records in a file using spring batch and perform the validation and create the class and object to store the records 
+		4. records attribute are as follow : (mobile_num, account_num, balance, last_account ussage)
+		5. after processing the records store it into the db with status as enum 1 is fail and 0 is success.
+
+##################################################################################################################
+Things to do in a listed format:
+
+	
+	ONE DAY ONE THING AT A TIME : DSA + COURSE TO FOLLOW NOT MORE THAN THAT IN THE STARTING 
+	
+	
+	FOLLOW THE PLAN TILL 31ST DECEMBER 
+		1. KAFA & SPRING BOOT + DsA
+		2. MULTI THREADING + AOP + ACTUATOR + Transactional ANNOTATION & SPRING BOOT + DsA
+		3. MICROSERVICES + DSA 
+		4. HIBERNATE + DsA
+		5. MICROSERVICES DESIGN PATTERN + DsA
+		6. LLD DESIGN & DESIGN PATTERN + HLD IDEA FROM BOOKS + DSA 
+		7. JAVA ADV. VERSION + DSA 
+		
+	Make notes of dsa question in Note booke buy register for that
+	
+	
+	1. Multi threading 
+	2. Kafka from scratch 
+	3. Micro services 
+	4. Hibernate
+	5. Java advance version 
+	6. CI CD Pipeline 
+	7. AWS
+	8. Microservice Design pattern 
+	9. LLD 	
+	10. HLD 
+	11. DSA Question solving
+	12. Spring Boot 
+	13. Spring Security 
+
+	11. DSA :[
+		"Graphs" : "Med"
+		"DP"
+		"Linked List"
+		"Greedy Algorithm"
+		"Sorting"
+		"Sliding window & 2 pointers"
+		"BACKTRACK & Recursion"
+		"Trees & BST"
+		]
+
+###################################################################################################################
+
+DSA Topic wise Study:
+
+	1. Graphs Lecture & Dynamic Programing lecture parallel (Easy & Medium problems to do )
+	2. Linked List
+	3. Sorting algo revision 
+	4. Greedy Algorithm
+	5. Recursion & BACKTRACK
+	6. Sliding Window problems
+	7. Heaps & Interval 
+	8. Strings (Medium problems)
+	9. Stacks 
+	10. Queue 
+	11. Trees & BST 
+	12. Binary search Algo
+	
+	
+	16th November 2024:
+		1. Spring Batch
+		2. DSA Questions 
+		
+	17th November 2024:
+		10:30 to 12:30 -> LLD 
+		12:45 to 4:45 -> Spring Batch 
+		9:30 to 11:30 -> DSA Questions to do 
+
+23rd November 2024: 
+	1. Spring kafka => Try to complete section 3 
+	2. LLD : Twitter ID generation Snow flake LLD & Shopping cart system 
+	
+25th November 2024: 
+	
+	1. DSA Questions Revision for all the solved problems
+	2. Kafka Spring Boot 
+	
+
+till 30th November 2024: 
+	 - Complete Kafka + Spring boot 
+	 - LLD 2 design 
+	 
+till 15th December 2024: 
+	- Complete Microservices 
+	- Complete Multi threading lectures 
+	- DSA Questions 
+	- LLD 4 problems
+	- HLD 4 problems
+
+till 31st December 2024: 
+	
+	- Complete hibernate
+	- Complete Java versions 
+	- DSA Questions
+	- LLD 4 problem
+	- hld 4 problem

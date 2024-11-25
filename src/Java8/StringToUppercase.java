@@ -7,6 +7,6 @@ public class StringToUppercase {
 
 	public static void main(String[] args) {
 		List<String> strings = Arrays.asList("hey","hi","bye");
-		strings.stream().map(String::toUpperCase).forEach(System.out::println);;
-	}
+		strings.stream().map(String::toUpperCase).forEach(System.out::println);
+    }
 }

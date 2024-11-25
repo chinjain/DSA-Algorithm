@@ -7,10 +7,6 @@ public class ReminderValidationChecker {
 		if (reminder.getReminderId() <= 0)
 			return false;
 
-		if (reminder.getNote().isEmpty()) {
-			return false;
-		}
-
-		return true;
-	}
+        return !reminder.getNote().isEmpty();
+    }
 }

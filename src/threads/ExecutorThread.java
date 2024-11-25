@@ -45,7 +45,7 @@ public class ExecutorThread {
 		
 		Future<List<Integer>> f4 = service.submit(() -> {
 			System.out.println("Thread:" + Thread.currentThread().getName());
-			return Arrays.asList(11);
+			return List.of(11);
 		});
 		
 		Future<List<Integer>> f5 = service.submit(() -> {

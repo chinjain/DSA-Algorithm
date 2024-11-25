@@ -5,7 +5,7 @@ import java.util.Stack;
 public class SlidingMaxWindow {
 
 	public static void main(String[] args) {
-		int arr[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+		int[] arr = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
 		int k = 3;
 
 		bruteForce(arr, k);

@@ -99,7 +99,7 @@ class ConcreteSubject implements Subject {
 
 class ConcreteObersver implements Observer {
 
-	private String name;
+	private final String name;
 
 	public ConcreteObersver(String name) {
 		this.name = name;

@@ -23,9 +23,9 @@ public class FunInterface implements Demo {
 @FunctionalInterface
 interface Demo {
 
-	public void hello();
+	void hello();
 
-	public static void demoPrint() {
+	static void demoPrint() {
 		System.out.println("Hey this is static");
 	}
 	

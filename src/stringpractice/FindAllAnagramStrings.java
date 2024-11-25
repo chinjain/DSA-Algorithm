@@ -31,7 +31,7 @@ public class FindAllAnagramStrings {
 		int count = 0;
 
 		while (i < s.length()) {
-			if (compare(pattern, source) == true) {
+			if (compare(pattern, source)) {
 				count++;
 				ans.add(j);
 //				System.err.println(true);
@@ -49,7 +49,7 @@ public class FindAllAnagramStrings {
 			j++;
 		}
 
-		if (compare(pattern, source) == true) {
+		if (compare(pattern, source)) {
 			count++;
 			ans.add(j);
 		}

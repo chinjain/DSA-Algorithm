@@ -24,8 +24,8 @@ class LinkedMap<K, V> {
 
 	private final int capacity;
 	private final float loadFactor;
-	private int size;
-	private Map<K, Entry<K, V>> map;
+	private final int size;
+	private final Map<K, Entry<K, V>> map;
 
 	private Entry<K, V> head;
 	private Entry<K, V> tail;

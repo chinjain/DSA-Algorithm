@@ -9,7 +9,7 @@ public class ArraysAndStringQuestiosn {
 
 	public static void main(String[] args) {
 
-		int a[] = { 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0 };
+		int[] a = { 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0 };
 
 //		programToFindDuplicateCharacter("chinmayChinmayjainajainanfjsdknjfnjnjfsdjr");
 //		programToFindDupAndOccurence("chinmayChinmayjainajainanfjsdknjfnjnjfsdjr");
@@ -44,7 +44,7 @@ public class ArraysAndStringQuestiosn {
 
 	}
 
-	private  void programToSetAll0And1LeftSide(int a[]) {
+	private  void programToSetAll0And1LeftSide(int[] a) {
 		System.out.println("ArraysAndStringQuestiosn.programToSetAll0And1LeftSide()");
 
 		int left = 0;

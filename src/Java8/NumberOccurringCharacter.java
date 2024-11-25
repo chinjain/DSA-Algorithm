@@ -37,7 +37,7 @@ public class NumberOccurringCharacter {
 		char character = map.entrySet().stream().filter(ent -> ent.getValue() == 1).map(Map.Entry::getKey).findFirst()
 				.get();
 
-		System.out.println(String.format("Unique first Character is {%s}", character));
+		System.out.printf("Unique first Character is {%s}%n", character);
 
 	}
 

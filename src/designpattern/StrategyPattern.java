@@ -17,8 +17,8 @@ interface PaymentStrategy {
 
 class CreditCardPayment implements PaymentStrategy {
 
-	private String cardNumber;
-	private String name;
+	private final String cardNumber;
+	private final String name;
 
 	public CreditCardPayment(String cardNumber, String name) {
 		this.cardNumber = cardNumber;
@@ -33,7 +33,7 @@ class CreditCardPayment implements PaymentStrategy {
 }
 
 class PayPalPayment implements PaymentStrategy {
-	private String email;
+	private final String email;
 
 	public PayPalPayment(String email) {
 		this.email = email;
@@ -49,7 +49,7 @@ class PayPalPayment implements PaymentStrategy {
 
 class UPIPayment implements PaymentStrategy {
 
-	private String mobileNumber;
+	private final String mobileNumber;
 
 	public UPIPayment(String number) {
 		this.mobileNumber = number;

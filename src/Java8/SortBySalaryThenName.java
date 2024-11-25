@@ -32,8 +32,8 @@ public class SortBySalaryThenName {
 
 	static class Employee {
 
-		private int salary;
-		private String name;
+		private final int salary;
+		private final String name;
 
 		public Employee(int salary, String name) {
 			this.salary = salary;

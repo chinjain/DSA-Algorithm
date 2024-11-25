@@ -49,7 +49,12 @@ class Mythread1 extends Thread {
 		
 		while(true) {
 			System.out.print("A");
-			sleep(100);
+			try {
+				sleep(100);
+			} catch (InterruptedException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
 		}
 	}
 

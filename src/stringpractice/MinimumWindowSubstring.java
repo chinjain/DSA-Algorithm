@@ -22,7 +22,7 @@ public class MinimumWindowSubstring {
 			map[ch]++;
 		}
 
-		char chs[] = s.toCharArray();
+		char[] chs = s.toCharArray();
 
 		while (end < chs.length) {
 			if (map[chs[end++]]-- > 0) {
@@ -101,7 +101,7 @@ public class MinimumWindowSubstring {
 
 			}
 
-			if (f1 == false && f2 == false) {
+			if (!f1 && !f2) {
 				break;
 			}
 		}

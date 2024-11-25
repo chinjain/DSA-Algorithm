@@ -3,7 +3,7 @@ package com.binarySearcj;
 public class SearchInRotatedArray {
 
 	public static void main(String[] args) {
-		int arr[] = { 20, 17, 15, 14, 13, 12, 10, 9, 8, 4 };
+		int[] arr = { 20, 17, 15, 14, 13, 12, 10, 9, 8, 4 };
 		int target = 9;
 
 		System.out.println(search(arr, target));

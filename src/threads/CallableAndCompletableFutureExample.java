@@ -38,9 +38,8 @@ public class CallableAndCompletableFutureExample {
 			}
 			return "Knolders!";
 		}, executor).thenApply(name -> "Hello " + name).thenApply(greeting -> greeting + " Welcome to Knoldus Inc!");
-		;
 
-		System.out.println(result.get());
+        System.out.println(result.get());
 	}
 
 	// public void someProcess() {

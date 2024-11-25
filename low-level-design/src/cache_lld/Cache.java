@@ -12,7 +12,7 @@ public class Cache<Key, Value> {
 	
 	public void put(Key key, Value val) {
 		try {
-			this.storage.add(key,value);
+			this.storage.add(key,val);
 			
 			
 		}catch (StorageFullException e) {

@@ -4,7 +4,7 @@ public class StringPalindrome {
 
 	public static void main(String[] args) {
 		String str = "abbaa";
-		System.out.println(str.substring(0 ,str.length() - 0));
+		System.out.println(str.substring(0 , str.length()));
 		System.out.println("Naive approach Answer " +  Naive_palindrome(str));
 		System.out.println("Two ptr solution : " + twoPtrPalindrome(str));
 	}
@@ -26,12 +26,8 @@ public class StringPalindrome {
 			rev = rev + str.charAt(i);
 		}
 
-		if (str.equals(rev)) {
-			return true;
-		}
-
-		return false;
-	}
+        return str.equals(rev);
+    }
 
 	
 }

@@ -15,9 +15,9 @@ public class BuilderDesignPattern {
 
 class Student {
 
-	private String student_id;
-	private String name;
-	private String course;
+	private final String student_id;
+	private final String name;
+	private final String course;
 
 	private Student(StudentBuilder builder) {
 
@@ -30,7 +30,7 @@ class Student {
 	static class StudentBuilder {
 
 		private String student_id;
-		private String name;
+		private final String name;
 		private String course;
 
 		public StudentBuilder(String firstname) {
@@ -56,9 +56,9 @@ class Student {
 }
 
 class User {
-	private String name;
-	private String user_Id;
-	private String email;
+	private final String name;
+	private final String user_Id;
+	private final String email;
 
 	private User(UserBuilder builder) {
 		this.name = builder.name;

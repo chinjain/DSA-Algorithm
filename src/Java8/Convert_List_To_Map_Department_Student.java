@@ -18,10 +18,6 @@ public class Convert_List_To_Map_Department_Student {
 
 		List<Stud> studs = Arrays.asList(new Stud("abs", "50", new Department("CSE")),
 				new Stud("CJ", "65", new Department("IT")), new Stud("SP", "100", new Department("CSE")));
-		
-		Iterator iterator = studs.iterator();
-		iterator.remove();
-
 		return studs;
 	}
 
@@ -29,13 +25,21 @@ public class Convert_List_To_Map_Department_Student {
 
 		Convert_List_To_Map_Department_Student listToMap = new Convert_List_To_Map_Department_Student();
 
-		Map<Department, List<String>> map = listToMap.studs.stream()
+		Map<Department, List<String>> map = studs.stream()
 				.collect(Collectors.groupingBy(Stud::getDept, Collectors.mapping(Stud::getName, Collectors.toList())));
+		
+		map.entrySet().stream().forEach((e) -> {
+			
+			String values = e.getValue().stream().reduce("", (s1,s2) -> s1 + " " +s2);
+				
+			System.out.print(e.getKey() + ":" + values);
+			
+		});
 
-		for (Map.Entry<Department, List<String>> entry : map.entrySet()) {
-
-			System.out.println(entry.getKey().toString() + " : " + entry.getValue());
-		}
+//		for (Map.Entry<Department, List<String>> entry : map.entrySet()) {
+//
+//			System.out.println(entry.getKey().toString() + " : " + entry.getValue());
+//		}
 
 		System.out.println("Convert_List_To_Map_Department_Student.main()");
 		studs.stream().sorted((a, b) -> b.getName().toLowerCase().compareTo(a.getName().toLowerCase()))

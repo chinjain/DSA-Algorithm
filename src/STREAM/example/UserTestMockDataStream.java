@@ -15,11 +15,11 @@ public class UserTestMockDataStream {
 				new User(1L, "Amirhosein", "Gharaati", "amirgh1380@gmail.com", 22,
 						Arrays.asList("computer", "board games")),
 				new User(2L, "Mohammad", "Shoja", "rezajsh@yahoo.com", 26, Arrays.asList("computer", "guitar")),
-				new User(3L, "Babak", "Ahmadi", "babakahmadi@gmail.com", 33, Arrays.asList("shopping")),
-				new User(2L, "Robin", "Eklund", "robin.eklund@twitter.com", 28, Arrays.asList("reading")),
+				new User(3L, "Babak", "Ahmadi", "babakahmadi@gmail.com", 33, List.of("shopping")),
+				new User(2L, "Robin", "Eklund", "robin.eklund@twitter.com", 28, List.of("reading")),
 				new User(5L, "Amir", "Tavakoli", "amirtvkli@gmail.com", 30,
 						Arrays.asList("reading", "computer", "cooking")),
-				new User(5L, "Farhad", "Kiani", "farhadkiani@focalpay.se", 28, Arrays.asList()));
+				new User(5L, "Farhad", "Kiani", "farhadkiani@focalpay.se", 28, List.of()));
 	}
 
 	public static void filter_users_with_gmail_with_age_greater_than_equal_25() {

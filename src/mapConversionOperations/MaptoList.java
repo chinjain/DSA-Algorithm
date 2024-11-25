@@ -9,7 +9,7 @@ public class MaptoList {
 
 	public static void main(String[] args) {
 
-		Integer integer = new Integer(30);
+		Integer integer = Integer.valueOf(30);
 		int i = integer;
 
 		List<Person> persons = Arrays.asList(new Person(1, "John"), new Person(2, "Jane"), new Person(3, "Adam"));
@@ -21,9 +21,8 @@ public class MaptoList {
 		persons.stream().collect(Collectors.toMap(Person::getId, Person::getName)).entrySet().forEach(ent -> {
 			System.err.println(ent.getKey() + ":" + ent.getValue());
 		});
-		;
 
-	}
+    }
 
 }
 

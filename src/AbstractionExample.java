@@ -78,5 +78,5 @@ class Rect extends Shape {
 
 interface Shape2 {
 
-	public double CircleShape();
+	double CircleShape();
 }

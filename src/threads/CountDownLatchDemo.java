@@ -24,8 +24,8 @@ public class CountDownLatchDemo {
 
 	static class Worker extends Thread {
 
-		private int delay;
-		private CountDownLatch latch;
+		private final int delay;
+		private final CountDownLatch latch;
 
 		public Worker(int delay, CountDownLatch latch, String name) {
 			super(name);

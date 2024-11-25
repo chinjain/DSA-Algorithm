@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class SortArray012 {
 	public static void main(String[] args) {
 		int n = 5;
-		int arr[] = { 0, 0, 0, 1, 2, 2, 0, 0, 2, 1, 2, 1, 2, 0 };
+		int[] arr = { 0, 0, 0, 1, 2, 2, 0, 0, 2, 1, 2, 1, 2, 0 };
 		bruteForce(arr, n);
 		optimalApproach(arr, n);
 	}

@@ -42,8 +42,8 @@ public class CombinationalSum {
 
 	private static void backtrack(List<List<Integer>> list, ArrayList<Integer> temp, int target, int[] arr, int st) {
 
-		if (target < 0)
-			return;
+		if (target < 0) {
+        }
 		else if (target == 0)
 			list.add(new ArrayList<Integer>(temp));
 		else {

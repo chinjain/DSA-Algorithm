@@ -19,11 +19,9 @@ public class BasicJavaProblems {
 		
 		if(result == i) {
 			System.out.println("Arm Strong");
-			return ;
-		}else {
+        }else {
 			System.err.println("Not Valid");
-			return;
-		}
+        }
 		
 	}
 

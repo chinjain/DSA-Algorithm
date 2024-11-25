@@ -13,7 +13,7 @@ public class DuplicateCharacterOccurences {
 		optimal(inputString);
 		
 		
-		String ch [] = inputString.split("");
+		String[] ch = inputString.split("");
 		
 	}
 
@@ -38,7 +38,7 @@ public class DuplicateCharacterOccurences {
 
 		}
 
-		System.err.println(sb.toString());
+		System.err.println(sb);
 
 	}
 

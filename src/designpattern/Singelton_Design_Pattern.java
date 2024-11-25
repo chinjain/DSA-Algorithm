@@ -41,7 +41,7 @@ public class Singelton_Design_Pattern {
 class Db_Instance {
 
 	private static Db_Instance instance = null;
-	private static Db_Instance instance2 = new Db_Instance();
+	private static final Db_Instance instance2 = new Db_Instance();
 
 	private Db_Instance() {
 		if (instance2 != null) {

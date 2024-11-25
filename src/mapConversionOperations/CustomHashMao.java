@@ -2,11 +2,11 @@ package mapConversionOperations;
 
 public class CustomHashMao<K,V> {
 	
-	private  float loadFactor = 0.75f;
-	private int capacity = 100;
-    private int size = 0;
+	private final float loadFactor = 0.75f;
+	private final int capacity = 100;
+    private final int size = 0;
     
-    private Node<K, V> table[] = new  CustomHashMao.Node[capacity];
+    private final Node<K, V>[] table = new  CustomHashMao.Node[capacity];
     
     private int Hashing(int hashCode) {
     	int location = hashCode % capacity;
@@ -19,10 +19,7 @@ public class CustomHashMao<K,V> {
     }
 	
     public boolean isEmpty() {
-    	if(this.size == 0) {
-    		return true;
-    	}
-    	return false;
+        return this.size == 0;
     }
     
     public boolean containsKey(Object key) {
@@ -43,14 +40,10 @@ public class CustomHashMao<K,V> {
     	}catch (Exception e) {
 			// TODO: handle exception
 		}
-    	
-    	if( n != null  && n.getKey() == key) {
-    		return true;
-    	}
-    	
-    	return false;
-    	
-    	
+
+        return n != null && n.getKey() == key;
+
+
     }
 	
 	
@@ -112,11 +105,8 @@ public class CustomHashMao<K,V> {
 				return false;
 			}
 			Node e = (Node) o;
-			if (this.key == e.key) {
-				return true;
-			}
-			return false;
-		}
+            return this.key == e.key;
+        }
 
 	}
 

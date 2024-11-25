@@ -4,7 +4,7 @@ public class MoreThanOneMissingElement {
 
 	public static void main(String[] args) {
 		
-		int arr[] = { 6, 7, 10, 11, 13 };
+		int[] arr = { 6, 7, 10, 11, 13 };
 		int n = arr.length;
 		bruteforce(arr, n); // O(n^2)
 		optimaApproach(arr, n);
@@ -29,7 +29,7 @@ public class MoreThanOneMissingElement {
 
 	private static void bruteforce(int[] arr, int n) {
 
-		int diff = arr[0] - 0;
+		int diff = arr[0];
 
 		for (int i = 0; i < n; i++) {
 			if (diff != arr[i] - i) {

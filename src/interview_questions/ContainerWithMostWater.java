@@ -3,8 +3,8 @@ package interview_questions;
 public class ContainerWithMostWater {
 
 	public static void main(String[] args) {
-		int a[] = { 1, 5, 4, 3 };
-		int b[] = { 3, 1, 2, 4, 5 };
+		int[] a = { 1, 5, 4, 3 };
+		int[] b = { 3, 1, 2, 4, 5 };
 
 		
 		bruteForceApproach(b);

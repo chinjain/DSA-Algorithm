@@ -35,7 +35,7 @@ public class IteratorDesignPattern {
 
 class UserManagement {
 
-	private List<User1> userList = new ArrayList<User1>();
+	private final List<User1> userList = new ArrayList<User1>();
 
 	public void addUser(User1 user) {
 		this.userList.add(user);
@@ -101,8 +101,8 @@ interface MyIterator {
 
 class MyIteratorImpl implements MyIterator {
 
-	private List<User1> list;
-	private int length;
+	private final List<User1> list;
+	private final int length;
 	private int pos = 0;
 
 	public MyIteratorImpl(List<User1> list) {
@@ -114,11 +114,7 @@ class MyIteratorImpl implements MyIterator {
 	@Override
 	public boolean hasNext() {
 
-		if (pos >= length) {
-			return false;
-		} else {
-			return true;
-		}
+        return pos < length;
 
 	}
 

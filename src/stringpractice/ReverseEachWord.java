@@ -28,7 +28,7 @@ public class ReverseEachWord {
 			if (s.charAt(i) != ' ')
 				stack.push(s.charAt(i));
 			else {
-				while (stack.isEmpty() == false) {
+				while (!stack.isEmpty()) {
 					System.out.print(stack.peek());
 					stack.pop();
 				}
@@ -37,7 +37,7 @@ public class ReverseEachWord {
 			}
 		}
 
-		while (stack.isEmpty() == false) {
+		while (!stack.isEmpty()) {
 			System.out.print(stack.peek());
 			stack.pop();
 		}

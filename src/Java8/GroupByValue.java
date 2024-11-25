@@ -81,10 +81,8 @@ class Product {
 				return false;
 		} else if (!category.equals(other.category))
 			return false;
-		if (Double.doubleToLongBits(price) != Double.doubleToLongBits(other.price))
-			return false;
-		return true;
-	}
+        return Double.doubleToLongBits(price) == Double.doubleToLongBits(other.price);
+    }
 	
 	
 	

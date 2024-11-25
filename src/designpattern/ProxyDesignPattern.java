@@ -3,54 +3,63 @@ package designpattern;
 public class ProxyDesignPattern {
 
 	public static void main(String[] args) {
-//		RealImage image = new RealImage("Test.png");
-		ImageProxy proxy = new ImageProxy();
-		proxy.display();
-		
-		
-	}
-
-}
-
-@FunctionalInterface
-interface image {
-	void display();
-}
-
-class RealImage implements image {
-
-	private String fileName;
-
-	public RealImage(String file) {
-		this.fileName = file;
-		loadFromDisk();
-	}
-
-	private void loadFromDisk() {
-		System.out.println("Loading " + fileName);
-	}
-
-	@Override
-	public void display() {
-		System.out.println("Displaying " + fileName);
-	}
-
-}
-
-class ImageProxy  implements image {
-
-
-
-	private RealImage realImage;
-	private String filename = "Test values for null Real images";
-
-	@Override
-	public void display() {
-		if (realImage == null) {
-			realImage = new RealImage(filename);
+		try {
+			
+			DatabaseExecutor executor = new DatabaseExecutorProxy("ADMIN");
+			executor.executeQuery("DELETE from users");
+			
+			DatabaseExecutor userExecutor = new DatabaseExecutorProxy("USER");
+			userExecutor.executeQuery("SELECT * From Users");
+			userExecutor.executeQuery("DELETE from users");
+			
+		} catch (Exception e) {
+			
+			System.out.println("Exception Message: " + e.getMessage());
+			
 		}
-
-		realImage.display();
 	}
+}
 
+interface DatabaseExecutor{
+	
+	void executeQuery(String query) throws Exception;
+
+}
+
+class DatabaseExecutorImpl implements DatabaseExecutor{
+
+	@Override
+	public void executeQuery(String query) {
+		
+		System.out.println("Executing query : {%s}" + query);
+		
+	}
+	
+}
+
+class DatabaseExecutorProxy implements DatabaseExecutor{
+
+	private boolean isAdmin;
+	private DatabaseExecutorImpl databaseExecutorImpl;
+	
+	public DatabaseExecutorProxy(String userRole) {
+		
+		this.isAdmin = userRole.equalsIgnoreCase("ADMIN");
+		this.databaseExecutorImpl = new DatabaseExecutorImpl();
+	}
+	
+	
+	@Override
+	public void executeQuery(String query) throws Exception {
+	
+		if(isAdmin) {
+			databaseExecutorImpl.executeQuery(query);
+		}else if(query.toLowerCase().startsWith("delete")) {
+			throw new Exception("DELETE not allowed for non-admin users.");
+        } else {
+            databaseExecutorImpl.executeQuery(query);
+        }
+		
+	}
+	
 }

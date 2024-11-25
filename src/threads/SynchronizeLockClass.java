@@ -26,7 +26,7 @@ class Thread1 extends Thread {
 	public void run() {
 //		Main.printTable(5);
 		Main m1 = new Main();
-		m1.printTable(5);
+		Main.printTable(5);
 	}
 
 }
@@ -37,7 +37,7 @@ class Thread2 extends Thread {
 	public void run() {
 //		Main.printTable(6);
 		Main m2 = new Main();
-		m2.printTable(6);
+		Main.printTable(6);
 	}
 
 }
@@ -48,7 +48,7 @@ class Thread3 extends Thread {
 	public void run() {
 //		Main.printTable(8);
 		Main m3 = new Main();
-		m3.printTable(8);
+		Main.printTable(8);
 	}
 
 }
@@ -59,7 +59,7 @@ class Thread4 extends Thread {
 	public void run() {
 //		Main.printTable(9);
 		Main m4 = new Main();
-		m4.printTable(9);
+		Main.printTable(9);
 	}
 
 }
@@ -70,7 +70,7 @@ class Thread5 extends Thread {
 	public void run() {
 //		Main.printTable(13);
 		Main m5 = new Main();
-		m5.printTable(13);
+		Main.printTable(13);
 	}
 
 }

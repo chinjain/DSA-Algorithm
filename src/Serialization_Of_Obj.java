@@ -5,8 +5,6 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 
-import com.sun.corba.se.pept.encoding.InputObject;
-
 public class Serialization_Of_Obj {
 
 	/*

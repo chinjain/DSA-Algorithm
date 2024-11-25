@@ -1,5 +1,6 @@
 package threads;
 
+
 public class SleepThreads extends Thread {
 
 	@Override
@@ -19,6 +20,6 @@ public class SleepThreads extends Thread {
 		
 		SleepThreads threads = new SleepThreads();
 		threads.start();
-		threads.yield();
+//		yield();
 	}
 }

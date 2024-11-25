@@ -1,7 +1,5 @@
 package designpattern;
 
-import com.sun.javafx.binding.SelectBinding.AsBoolean;
-
 public class Abstract_Factory_Method {
 
 	/*

@@ -14,7 +14,7 @@ public class NextGreaterElementRight {
 
 		int[] a = { 2, 1, 8, 3, 23, 5, 66, 7, 2, 8, 9 };
 		Stack<Integer> st = new Stack<Integer>();
-		int res[] = new int[a.length];
+		int[] res = new int[a.length];
 
 		nextGreaterElementFromLeft(a);
 

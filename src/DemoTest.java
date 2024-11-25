@@ -2,7 +2,7 @@
 public class DemoTest {
 
 	public static void main(String[] args) {
-		parent parent = (parent) new child();
+		parent parent = new child();
 		System.out.println(parent.getAge());
 	}
 

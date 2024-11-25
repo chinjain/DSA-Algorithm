@@ -4,11 +4,11 @@ public class MyHashMap<K, V> {
 	private static final int DEFAULT_CAPACITY = 16;
 	private static final float DEFAULT_LOAD_FACTOR = 0.75f;
 
-	private int capacity;
-	private float loadFactor;
+	private final int capacity;
+	private final float loadFactor;
 	private int size;
 
-	private Node<K, V>[] table;
+	private final Node<K, V>[] table;
 
 	public MyHashMap() {
 		this(DEFAULT_CAPACITY, DEFAULT_LOAD_FACTOR);

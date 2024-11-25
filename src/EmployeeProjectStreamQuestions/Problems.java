@@ -10,19 +10,20 @@ public class Problems {
 
 	public static void main(String[] args) {
 
-		List<Employee> employees = new EmployeeFactory().getAll();
+        new EmployeeFactory();
+        List<Employee> employees = EmployeeFactory.getAll();
 
 		System.out.println("\n ====== List all distinct project in non-ascending order. ======");
 		employees.stream().flatMap(emp -> emp.getProjects().stream()).distinct().sorted((p1, p2) -> {
 			return p2.getName().compareTo(p1.getName());
 		}).forEach(System.out::println);
 
-		System.out.println("\n ====== Print full name of any employee whose firstName starts with ‘A’. ======");
+		System.out.println("\n ====== Print full name of any employee whose firstName starts with ï¿½Aï¿½. ======");
 		employees.stream().filter(emp -> emp.getFirstName().startsWith("A")).forEach(System.out::println);
 
 		System.out.println(
 				"\n ====== List of all employee who joined in year 2023 (year to be extracted from employee id i.e., 1st 4 characters) ======");
-		employees.stream().filter(emp -> emp.getId().substring(0, 4).equals("2023")).forEach(System.out::println);
+		employees.stream().filter(emp -> emp.getId().startsWith("2023")).forEach(System.out::println);
 
 		System.out.println("\n ====== Sort employees based on firstName, for same firstName sort by salary. ======");
 		employees.stream().sorted((e1, e2) -> {
@@ -78,7 +79,9 @@ public class Problems {
 		employees.stream()
 		.collect(Collectors.toMap(e -> e.getId().substring(0, 4), emp -> 1, Integer::sum, TreeMap::new))
 		.entrySet().forEach(System.out::println);
-		;
-	}
+		
+		System.out.println("\n ========== Sort Employees =================");
+		employees.stream().sorted((e1,e2) -> e1.getFirstName().compareTo(e2.getFirstName())).forEach(System.out::println);
+    }
 
 }

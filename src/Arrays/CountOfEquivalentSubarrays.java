@@ -8,7 +8,7 @@ import java.util.Set;
 public class CountOfEquivalentSubarrays {
 
 	public static void main(String[] args) {
-		int arr[] = { 2, 1, 3, 2, 3 };
+		int[] arr = { 2, 1, 3, 2, 3 };
 
 		count(arr, arr.length);
 
@@ -52,9 +52,7 @@ public class CountOfEquivalentSubarrays {
 		Map<Integer, Integer> map = new HashMap<>();
 
 		for (int a : arr) {
-			if (!set.contains(a)) {
-				set.add(a);
-			}
+            set.add(a);
 		}
 
 		int k = set.size();

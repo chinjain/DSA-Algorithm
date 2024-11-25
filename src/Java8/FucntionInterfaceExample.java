@@ -29,8 +29,8 @@ interface personFilter {
 
 class Per {
 
-	private String name;
-	private int age;
+	private final String name;
+	private final int age;
 
 	public Per(String name, int age) {
 		this.name = name;

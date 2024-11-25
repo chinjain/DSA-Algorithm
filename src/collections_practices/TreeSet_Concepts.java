@@ -80,8 +80,8 @@ class Emp implements Comparable<Emp> {
 }
 
 class Dept {
-	private int deptId;
-	private String deptName;
+	private final int deptId;
+	private final String deptName;
 
 	public Dept(int deptId, String deptName) {
 		this.deptId = deptId;

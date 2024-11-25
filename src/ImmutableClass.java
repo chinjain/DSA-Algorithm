@@ -6,7 +6,7 @@ import java.util.List;
 public class ImmutableClass {
 
 	public static void main(String[] args) {
-		Emp emp = new Emp("Chinmay", "03-11-1998", Arrays.asList("CSE,IT"));
+		Emp emp = new Emp("Chinmay", "03-11-1998", List.of("CSE,IT"));
 
 		try {
 			System.out.println(emp.getDepartment().add("ECE"));
@@ -78,11 +78,8 @@ final class Emp {
 		} else if (!dob.equals(other.dob))
 			return false;
 		if (name == null) {
-			if (other.name != null)
-				return false;
-		} else if (!name.equals(other.name))
-			return false;
-		return true;
-	}
+            return other.name == null;
+		} else return name.equals(other.name);
+    }
 
 }

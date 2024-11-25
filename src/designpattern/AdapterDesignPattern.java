@@ -16,13 +16,13 @@ public class AdapterDesignPattern {
 }
 
 interface MediaPlayer {
-	public void play(String format, String file);
+	void play(String format, String file);
 }
 
 interface AdvancePlayer {
-	public void playMP4(String file);
+	void playMP4(String file);
 
-	public void playWav(String file);
+	void playWav(String file);
 }
 
 class Mp4Player implements AdvancePlayer {
@@ -52,7 +52,7 @@ class WAVPlayer implements AdvancePlayer {
 
 	@Override
 	public void playWav(String file) {
-		System.out.println("WAV File" + file + "Playing….");
+		System.out.println("WAV File" + file + "Playingï¿½.");
 
 	}
 

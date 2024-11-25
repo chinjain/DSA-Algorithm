@@ -1,13 +1,14 @@
 package threads;
 
 import java.util.concurrent.Callable;
+import java.util.concurrent.ExecutionException;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 import java.util.concurrent.Future;
 
 public class CallableImplementaion {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws InterruptedException, ExecutionException {
 		// Create an ExecutorService with a fixed number of threads
 		ExecutorService executorService = Executors.newFixedThreadPool(2);
 		// Define a Callable task
@@ -18,6 +19,9 @@ public class CallableImplementaion {
 			System.out.println("hello");
 			return "";
 		});
+		
+		Future<String> reportSync = executorService.submit(callableTask);
+		System.out.println(reportSync.get());
 
 		
 		
@@ -36,7 +40,7 @@ public class CallableImplementaion {
 }
 
 class Report implements Callable<String> {
-	private String reportName;
+	private final String reportName;
 
 	public Report(String reportName) {
 		this.reportName = reportName;
@@ -44,7 +48,7 @@ class Report implements Callable<String> {
 
 	@Override
 	public String call() throws Exception {
-		Thread.sleep(5000); // Sleep for 5 seconds
+//		Thread.sleep(5000); // Sleep for 5 seconds
 		return "Report '" + reportName + "' processing completed";
 	}
 }

@@ -1,7 +1,6 @@
 package threads;
 
 import java.io.File;
-import java.util.List;
 import java.util.concurrent.CompletableFuture;
 import java.util.concurrent.ExecutionException;
 
@@ -22,16 +21,18 @@ public class RunAsynchDemo {
 		CompletableFuture<Void> runAsync = CompletableFuture.runAsync(() -> {
 			try {
 
-//				List<EmployeeJson> jsons = mapper.readValue(jsonFile, new TypeReference<List<EmployeeJson>>() {
-//				});
-//
-//				System.out.println("thread :" + Thread.currentThread().getName());
-//				jsons.stream().forEach(System.out::println);
+				// List<EmployeeJson> jsons = mapper.readValue(jsonFile, new
+				// TypeReference<List<EmployeeJson>>() {
+				// });
+				//
+				// System.out.println("thread :" + Thread.currentThread().getName());
+				// jsons.stream().forEach(System.out::println);
 			} catch (Exception e) {
+
 				e.printStackTrace();
+
 			}
 		});
-
 		return runAsync.get();
 	}
 
