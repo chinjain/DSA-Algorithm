@@ -2503,9 +2503,9 @@ Weekends -> Dev + DSA + System Design
  
 	Complete Kafka Course:
 
-	1. Kafka Lectures 
-	2. Multi threading 
-	3. 4 lecture greedy key 4 lecture graphs ke makes notes in Book !!
+	1. Kafka Lectures
+	2. Multi threading
+	3. 4 lecture greedy key 4 lecture graphs ke makes notes in Book
 	
 	
 	Project : 
@@ -2560,7 +2560,7 @@ Things to do in a listed format:
 		"Trees & BST"
 		]
 
-###################################################################################################################
+#####################################################    ##############################################################
 
 DSA Topic wise Study:
 
@@ -2615,3 +2615,27 @@ till 31st December 2024:
 	- DSA Questions
 	- LLD 4 problem
 	- hld 4 problem
+	
+
+9th December 2024: 
+	- Company work
+	- DSA Question [Graph,trees,Binary search problems]
+
+
+
+Schedule to follow : 
+	
+	a) 6:30pm to 7:30pm study  
+	b) 7:45 to 8:45pm Study
+	c) 9:15 to 10:30 study 
+	d) 10:45 to 11:45 study 
+
+
+DECEMBER Schedule to follow : 
+	
+ - Kal ka kuch ni pata bas aaj hi apna kaam krte raho bhai or aage badhte raho bohot simple hai !! :)
+ 
+ 13th DECEMBER 2024: 
+	
+	- Company Work to do 
+	- Chill :)
