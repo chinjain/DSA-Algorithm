@@ -28,13 +28,13 @@ public class Convert_List_To_Map_Department_Student {
 		Map<Department, List<String>> map = studs.stream()
 				.collect(Collectors.groupingBy(Stud::getDept, Collectors.mapping(Stud::getName, Collectors.toList())));
 		
-		map.entrySet().stream().forEach((e) -> {
-			
-			String values = e.getValue().stream().reduce("", (s1,s2) -> s1 + " " +s2);
-				
-			System.out.print(e.getKey() + ":" + values);
-			
-		});
+		map.forEach((key, value) -> {
+
+            String values = value.stream().reduce("", (s1, s2) -> s1 + " " + s2);
+
+            System.out.print(key + ":" + values);
+
+        });
 
 //		for (Map.Entry<Department, List<String>> entry : map.entrySet()) {
 //

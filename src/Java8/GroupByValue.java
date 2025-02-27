@@ -17,7 +17,7 @@ public class GroupByValue {
 				.collect(Collectors.groupingBy(Product::getCategory, Collectors.averagingDouble(Product::getPrice)));
 
 //		Collectors.summingDouble(Product::getPrice)
-		Map<Double, List<Product>> groupMap = products.stream().collect(Collectors.groupingBy(pro -> pro.getPrice()));
+		Map<Double, List<Product>> groupMap = products.stream().collect(Collectors.groupingBy(Product::getPrice));
 		System.out.println("Group By Map ->  " +  groupMap);
 		System.err.println("Value of MAP is : " + map);
 	}

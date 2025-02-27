@@ -31,7 +31,7 @@ public class DuplicateElement {
 	private static Set<Integer> removeDuplicate(List<Integer> stream) {
 
 		Set<Integer> integers = new HashSet<Integer>();
-		return stream.stream().filter(i -> integers.add(i)).collect(Collectors.toSet());
+		return stream.stream().filter(integers::add).collect(Collectors.toSet());
 	}
 
 	private static Set<Integer> printDuplicateElement(List<Integer> stream) {

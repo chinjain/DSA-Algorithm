@@ -4,13 +4,13 @@ import java.util.Comparator;
 import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Problems {
 
 	public static void main(String[] args) {
 
-        new EmployeeFactory();
         List<Employee> employees = EmployeeFactory.getAll();
 
 		System.out.println("\n ====== List all distinct project in non-ascending order. ======");
@@ -82,6 +82,11 @@ public class Problems {
 		
 		System.out.println("\n ========== Sort Employees =================");
 		employees.stream().sorted((e1,e2) -> e1.getFirstName().compareTo(e2.getFirstName())).forEach(System.out::println);
+
+		System.out.println("\n ===================== LIST OF Employee to map ========================");
+		employees.stream().collect(Collectors.toMap(Employee::getId, Function.identity(),(old,newVal) -> newVal)).entrySet().stream().forEach((m) ->{
+			System.out.println(m.getKey() + ":" + m.getValue());
+		});
     }
 
 }
