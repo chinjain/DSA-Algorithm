@@ -10,7 +10,6 @@ public class PrintSubsequences {
 	}
 
 	private static void print(int i, int[] arr, int length, ArrayList<Integer> list) {
-		// TODO Auto-generated method stub
 
 		if (i == length) {
 			for (int num : list) {

@@ -10,6 +10,7 @@ public class IPCThreadComm {
 			try {
 				System.out.println("b waiting to wake up");
 				b.wait();
+				System.out.println(b.total);
 			} catch (Exception e) {
 				System.out.println("Total is: " + b.total);
 			}
@@ -22,7 +23,6 @@ class ThreadB extends Thread {
 
 	int total;
 
-	@Override
 	public void run() {
 
 		synchronized (this) {

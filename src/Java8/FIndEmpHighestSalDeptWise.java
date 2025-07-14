@@ -26,6 +26,6 @@ class Dept{
     }
 
     public void setDeptName(String deptName){
-        this.deptName = deptName; bn
+        this.deptName = deptName;
     }
 }

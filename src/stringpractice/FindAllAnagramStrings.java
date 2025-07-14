@@ -1,9 +1,6 @@
 package stringpractice;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 public class FindAllAnagramStrings {
 
@@ -17,27 +14,27 @@ public class FindAllAnagramStrings {
 		Map<Character, Integer> source = new HashMap<Character, Integer>();
 
 		for (int k = 0; k < p.length(); k++) {
-			char ch = p.charAt(k);
-			pattern.put(ch, pattern.getOrDefault(ch, 0) + 1);
-		}
 
-		for (int k = 0; k < p.length(); k++) {
-			char ch = s.charAt(k);
-			source.put(ch, source.getOrDefault(ch, 0) + 1);
+			char p_char = p.charAt(k);
+			char c_char = s.charAt(k);
+			pattern.put(p_char, pattern.getOrDefault(p_char, 0) + 1);
+			source.put(c_char, source.getOrDefault(c_char, 0) + 1);
+
+		}
+		int count = 0;
+		if(compare(pattern, source)){
+			count++;
+			ans.add(0);
 		}
 
 		int i = p.length();
 		int j = 0;
-		int count = 0;
+
 
 		while (i < s.length()) {
-			if (compare(pattern, source)) {
-				count++;
-				ans.add(j);
-//				System.err.println(true);
-			}
 
 			source.put(s.charAt(i), source.getOrDefault(s.charAt(i), 0) + 1);
+
 			char ch = s.charAt(i - p.length());
 			if (source.get(ch) == 1) {
 				source.remove(ch);
@@ -45,14 +42,16 @@ public class FindAllAnagramStrings {
 				source.put(ch, source.get(ch) - 1);
 			}
 
+			if (compare(pattern, source)) {
+				count++;
+				ans.add(j);
+			}
+
 			i++;
 			j++;
+
 		}
 
-		if (compare(pattern, source)) {
-			count++;
-			ans.add(j);
-		}
 
 		System.out.println(ans);
 		System.err.println(count);
@@ -61,8 +60,11 @@ public class FindAllAnagramStrings {
 
 	private static boolean compare(Map<Character, Integer> pattern, Map<Character, Integer> source) {
 
+		if(pattern.size() != source.size())
+			return false;
+
 		for (char sch : source.keySet()) {
-			if (pattern.getOrDefault(sch, 0) != source.get(sch)) {
+			if (!Objects.equals(pattern.getOrDefault(sch, 0), source.get(sch))) {
 				return false;
 			}
 		}
